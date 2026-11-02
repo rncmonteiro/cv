@@ -162,3 +162,25 @@ body{background:var(--paper);color:var(--ink)}
 
 /* White IUSS logo directly on dark-blue background */
 .affiliation-logo:not(.resisk-logo) img{background:transparent;border-radius:0;padding:0}
+
+/* Single prominent name in hero; navigation aligned right */
+.header-inner{justify-content:flex-end}
+@media(max-width:700px){.header-inner{justify-content:flex-end}}
+
+/* Navigation improvements; existing colours and typography retained */
+.sidebar{top:82px;max-height:calc(100vh - 94px);overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#9badbd transparent;padding-top:24px;padding-bottom:24px}
+.sidebar a{display:block;padding:5px 10px;margin-left:-10px;border-left:3px solid transparent;border-radius:0 4px 4px 0;line-height:1.35;transition:background-color .15s ease,color .15s ease}
+.sidebar a.active,.sidebar a[aria-current="location"]{border-left-color:#163655;background:#dfe8ef;color:#163655;font-weight:700}
+.sidebar a:focus-visible,.back-to-top:focus-visible,.mobile-jump select:focus-visible{outline:2px solid #5b91c1;outline-offset:2px}
+.back-to-top{position:fixed;right:26px;bottom:25px;z-index:20;display:flex;align-items:center;gap:7px;padding:10px 14px;background:#163655;color:white;text-decoration:none;border:1px solid #65839e;border-radius:6px;box-shadow:0 5px 16px #102d4750;font-size:13px;font-weight:600;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s}
+.back-to-top.visible{opacity:1;visibility:visible;transform:translateY(0)}
+.back-to-top:hover{background:#244b6d;color:#fff}
+.mobile-jump{display:none}
+@media(max-width:700px){
+ .sidebar{display:none}
+ .mobile-jump{display:flex;flex-direction:column;gap:8px;max-width:var(--max);margin:0 auto;padding:20px 28px 0}
+ .mobile-jump label{font-size:12px;color:#405d76;font-weight:700}
+ .mobile-jump select{font:inherit;font-size:15px;color:#163655;background:#f1f5f8;border:1px solid #b5c7d6;border-radius:5px;padding:11px 12px;width:100%}
+ .back-to-top{right:15px;bottom:15px;padding:10px 12px}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.back-to-top,.sidebar a{transition:none}}
