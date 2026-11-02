@@ -1,8 +1,8 @@
 ## Institutional activities and roles
 
-- **10/2025–today** — Vice-Rector for International Relations, IUSS Pavia
-- **10/2023–today** — Member of the Management Board, University of Pavia and IUSS Pavia, [II level Post-Master Vocational Programme in Earthquake Engineering](https://www.roseschool.it/about-master/)
-- **10/2023–today** — Coordinator  IUSS Pavia and University of Pavia  PhD in Earthquake Engineering (ROSE)
+- Vice-Rector for International Relations, IUSS Pavia
+- Member of the Management Board, University of Pavia and IUSS Pavia, [II level Post-Master Vocational Programme in Earthquake Engineering](https://www.roseschool.it/about-master/)
+- Coordinator, IUSS Pavia and University of Pavia, [PhD in Earthquake Engineering (ROSE)](https://www.iusspavia.it/en/education/doctoral-programmes/phd-earthquake-engineering-rose)
 - **07/2022–today** — Member of the Administration Board  IUSS Pavia
 - **2021/2022–today** — Member of the Review Committee  University of Pavia and IUSS Pavia  MSc in Civil Engineering for Risk Mitigation from Natural Hazards
 - **10/2020–today** — Coordinator  IUSS Pavia and University of Pavia  PhD in Understanding and Managing Extremes (UME)
