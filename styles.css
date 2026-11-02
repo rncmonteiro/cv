@@ -137,3 +137,28 @@ body{background:var(--paper);color:var(--ink)}
 .resisk-logo-link img{display:block;width:190px;height:auto}
 .resisk-logo-link:hover{opacity:.85}
 @media(max-width:650px){.resisk-affiliation{align-items:flex-start;flex-direction:column;gap:9px}}
+
+/* Consistent academic and company affiliation rows */
+.affiliation-list{display:flex;flex-direction:column;gap:22px;margin-top:36px;max-width:920px}
+.affiliation-row{display:grid;grid-template-columns:210px minmax(0,1fr);gap:30px;align-items:center;min-height:88px}
+.affiliation-logo{width:210px;height:82px;display:flex;align-items:center;justify-content:center;text-decoration:none;overflow:hidden}
+.affiliation-logo img{display:block;width:100%;height:100%;object-fit:contain}
+.affiliation-logo:not(.resisk-logo) img{background:#fff;border-radius:5px;padding:12px 15px}
+.affiliation-logo.resisk-logo img{object-fit:contain}
+.affiliation-logo.resisk-logo:hover{opacity:.82}
+.affiliation-details{font-size:18px;line-height:1.45;color:#dce6ed}
+.affiliation-details p{font-size:inherit;line-height:inherit;margin:0 0 5px;color:inherit;font-weight:400}
+.affiliation-details a{font-size:inherit;color:#fff;text-decoration:underline;text-underline-offset:4px;text-decoration-color:#9eb6c8}
+.affiliation-details a:hover{color:#d1e4f0}
+@media(max-width:750px){
+  .affiliation-row{grid-template-columns:145px minmax(0,1fr);gap:18px}
+  .affiliation-logo{width:145px;height:64px}
+  .affiliation-details{font-size:15px}
+}
+@media(max-width:480px){
+  .affiliation-row{grid-template-columns:1fr;gap:8px}
+  .affiliation-logo{width:180px;height:70px}
+}
+
+/* White IUSS logo directly on dark-blue background */
+.affiliation-logo:not(.resisk-logo) img{background:transparent;border-radius:0;padding:0}
