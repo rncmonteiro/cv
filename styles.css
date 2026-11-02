@@ -130,3 +130,10 @@ body{background:var(--paper);color:var(--ink)}
   text-underline-offset:3px;
   white-space:nowrap;
 }
+
+/* Secondary professional affiliation in the homepage introduction */
+.resisk-affiliation{display:flex;align-items:center;gap:24px;margin-top:18px;color:#c9d8e6;line-height:1.5}
+.resisk-logo-link{display:inline-flex;flex-shrink:0;border-radius:5px;overflow:hidden}
+.resisk-logo-link img{display:block;width:190px;height:auto}
+.resisk-logo-link:hover{opacity:.85}
+@media(max-width:650px){.resisk-affiliation{align-items:flex-start;flex-direction:column;gap:9px}}
