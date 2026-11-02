@@ -2,7 +2,7 @@
 
 Courses, lectures and teaching contributions
 
-- **03/2026** — Invited Lecturer  Technical Association for Building Industrialisation and Italian Association of Reinforced and Prestressed Concrete  Risk assessment and innovative reinforcement solutions for existing bridges,  Module: “Multi-criteria decision-making for identification optimal retrofitting solutions”
+- **03/2026** — Invited Lecturer, Technical Association for Building Industrialisation and Italian Association of Reinforced and Prestressed Concrete, Risk assessment and innovative reinforcement solutions for existing bridges, Module: “Multi-criteria decision-making for identification optimal retrofitting solutions”
 - **12/2022, 12/2023, 12/2024** — Invited Lecturer  ETH Zurich, Switzerland  Certificate in Advanced Studies in Seismic Assessment and Retrofitting, Module 3.9: “Integrated Assessment and Retrofitting Strategies”
 - **11/2023,  10/2021** — Invited Lecturer  Stellenbosch University, South Africa  MEng/PhD in Civil Engineering, short course (1 week) “Seismic Design of RC Buildings”
 - **01/2023** — Invited Lecturer  Technical Association for Building Industrialisation and Italian Association of Reinforced and Prestressed Concrete  Safety assessment, monitoring and retrofitting of existing infrastructure with industrial solutions  Module: “Risk assessment of existing bridges through expected annual direct losses”
