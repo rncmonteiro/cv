@@ -1,0 +1,23 @@
+## Scientific committees and special sessions
+
+Scientific committee memberships and session organisation
+
+- **19. · 12/2027** — Co-Organiser of Mini-Symposium  Recovery Time and Household Impacts in Performance-Based Design and Assessment (with G. Mucedero, C. Galasso, C. Molina Hutt, N. Paul)  ICASP15 - 15th International Conference on Applications of Statistics and Probability in Civil Engineering, Melbourne, Australia
+- **18. · 07/2027** — Theme co-Lead  Seismic Assessment and Retrofitting (with I. Hajirasouliha and B. Panto)  Conference of the UK’s Society for Earthquake and Civil Engineering Dynamics Engineering (SECED 2027), Bristol, UK
+- **17. · 06/2027** — Co-Organiser of Mini-Symposium  Next-generation seismic retrofit frameworks and strategies for buildings and infrastructure (with G. Mucedero, F. De Luca, S. Ruggieri, M.T. De Risi)  COMPDYN 2025 - 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece
+- **16. · 06/2027** — Co-Organiser of Mini-Symposium  Advanced Computational Simulation of Structural Damage and Collapse of Vulnerable Ordinary and Historical Constructions (with M. Calò, M. Malena, C, Calderini, F. Portioli, F. Parisi)  COMPDYN 2027 - 11th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Crete, Greece
+- **15. · 06/2027** — Scientific Committee Member  14th Portuguese National Conference in Seismology and Earthquake Engineering (SISMICA2027), Porto, Portugal
+- **14. · 05/2026** — Scientific Committee Member  22nd International Probabilistic Workshop (IPW 2026), Padova, Italy
+- **13. · 05/2026** — Co-Organiser of Special Session  Next Generation Seismic Retrofit Strategies: AI, Resilience and Sustainability-based approaches (with A. Bogdanovic, A. Formisano)  ECEE2026 - 18th European Conference on Earthquake Engineering, Berlin, Germany
+- **12. · 05/2026** — Scientific Committee Member  Eighth International Conference on Earthquake Engineering and Seismology (8ICEES), Kuşadası, Turkey
+- **11. · 09/2025** — Co-Organiser of Themed Session and Scientific Committee Member  Seismic analysis and response (with L. Pelà, R. Nascimbene)  ARCH25 - 11th International Conference on Arch Bridges - from preservation of historical legacy to new forms, Genova, Italy
+- **10. · 06/2025** — Co-Organiser of Mini-Symposium  Numerical modelling and analysis of structures and infrastructures using Discrete Element approaches (with N. Scattarreggia, D. Malomo, B. Pulatsu, M. DeJong)  COMPDYN 2025 - 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece
+- **9. · 07/2024** — Co-Organiser of Themed Session  Risk-based assessment and retrofitting: synergies between seismic, energy and environmental behavior (with A. Tsiavos, R. Bento)  WCEE2024 - 18th World Conference on Earthquake Engineering, Milan, Italy
+- **8. · 07/2024** — Co-Organiser of Themed Session  Seismic performance of infilled buildings – recent developments and future challenges (with M. De Risi, G. Mucedero)  WCEE2024 - 18th World Conference on Earthquake Engineering, Milan, Italy
+- **7. · 07/2024** — Co-Organiser of Themed Session  Multi-hazard risk assessment of buildings and bridges (with F. Parisi, F. Jalayer)  WCEE2024 - 18th World Conference on Earthquake Engineering, Milan, Italy
+- **6. · 06/2024** — Co-Organiser of Themed Session  Risk-based assessment and prioritization of bridge stocks (with N. Scattarreggia)  IABMAS 2024 - 12th International Conference on Bridge Maintenance, Safety and Management, Copenhagen, Denmark
+- **5. · 11/2023** — Scientific Committee Member  Seventh International Conference on Earthquake Engineering and Seismology (7ICEES), Antalya, Turkey
+- **4. · 09/2023** — Co-Organiser of Themed Session and Scientific Committee Member  Risk assessment in developing countries (with C. Galasso, F. De Luca)  SECED 2023 Conference - Society for Earthquake and Civil Engineering Dynamics, Cambridge, UK
+- **3. · 09/2019** — Co-Organiser of Themed Session and Scientific Committee Member  Risk assessment in developing countries (with C. Galasso, F. De Luca)  SECED 2019 Conference - Society for Earthquake and Civil Engineering Dynamics, Greenwich, London, UK
+- **2. · 08/2016** — Scientific Committee Member  6th International Disaster and Risk Conference IDRC Davos 2016, Switzerland
+- **1. · 02/2015** — Organising and Scientific Committee Member  OECD Nuclear Energy Agency Committee on the Safety of Nuclear Installations  Workshop on “Testing PSHA Results and Benefit of Bayesian Techniques for Seismic Hazard Assessment”, Eucentre Foundation and IUSS Pavia

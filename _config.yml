@@ -1,0 +1,5 @@
+title: Ricardo Monteiro — Academic CV
+markdown: kramdown
+exclude:
+  - README.md
+  - tools
