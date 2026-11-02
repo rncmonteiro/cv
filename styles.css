@@ -103,3 +103,30 @@ body{background:var(--paper);color:var(--ink)}
 /* Publication numbers are explicit text, not browser-generated list markers. */
 #journal-articles > p, #conference-papers > p { margin: 0; padding: 12px 0; border-top: 1px solid var(--line); line-height: 1.7; color: var(--ink); }
 #journal-articles > p strong:first-child, #conference-papers > p strong:first-child { color: var(--accent); font-weight: 650; }
+
+/* Publications: numbered paragraphs without bullets; each entry distinct */
+#journal-articles > p:not(:first-of-type),
+#conference-papers > p:not(:first-of-type){
+  margin:0;
+  padding:13px 0;
+  border-top:1px solid var(--line);
+  color:var(--ink);
+  font-size:14px;
+  line-height:1.7;
+}
+#journal-articles > p:first-of-type,
+#conference-papers > p:first-of-type{
+  margin:0 0 22px;
+}
+#journal-articles > p strong,
+#conference-papers > p strong{
+  color:var(--accent);
+  font-weight:650;
+}
+#journal-articles > p a,
+#conference-papers > p a{
+  color:var(--accent);
+  text-decoration:underline;
+  text-underline-offset:3px;
+  white-space:nowrap;
+}
