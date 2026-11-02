@@ -99,3 +99,7 @@ body{background:var(--paper);color:var(--ink)}
 .markdown-section li strong{font-weight:650;color:var(--accent)}
 .markdown-section a{color:var(--accent);text-underline-offset:3px}
 .markdown-section a:hover{text-decoration-thickness:2px}
+
+/* Publication numbers are explicit text, not browser-generated list markers. */
+#journal-articles > p, #conference-papers > p { margin: 0; padding: 12px 0; border-top: 1px solid var(--line); line-height: 1.7; color: var(--ink); }
+#journal-articles > p strong:first-child, #conference-papers > p strong:first-child { color: var(--accent); font-weight: 650; }

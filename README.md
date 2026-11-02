@@ -37,3 +37,11 @@ Upload the **contents** of this ZIP into your repository root, keeping the `_inc
 **Important:** GitHub's upload interface may not overwrite files automatically in every workflow. Check that old `index.html` has been deleted: if both `index.html` and `index.md` exist, the old HTML page can take precedence. Remove the old `index.html` before publishing this version. Also remove any obsolete pages if you no longer want them publicly accessible.
 
 This design uses Jekyll's built-in Markdown support and no third-party plugins.
+
+## Publication numbering
+
+In the two publication Markdown files, keep the publication number as bold text at the start of each paragraph, e.g. `**100.** Authors, title...`. Leave a blank line between entries. This preserves original numbering instead of auto-numbering every entry as 1.
+
+
+## Journal article links
+Verified article links have been added to selected entries in `_includes/content/journal-articles.md`. Other entries remain unlinked until their exact publisher pages can be verified. Add links using `[Article page](https://doi.org/...)`.
