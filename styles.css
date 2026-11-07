@@ -184,3 +184,9 @@ body{background:var(--paper);color:var(--ink)}
  .back-to-top{right:15px;bottom:15px;padding:10px 12px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.back-to-top,.sidebar a{transition:none}}
+
+/* Research Team subsection hierarchy */
+#team h3{font-size:1.4rem;color:var(--accent);margin:36px 0 16px}
+#team h4{font-size:1.02rem;color:var(--ink);margin:22px 0 12px}
+#team ul{margin:0 0 22px}
+#team li{padding:9px 0;border-top:1px solid var(--line)}
