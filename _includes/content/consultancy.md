@@ -2,10 +2,8 @@
 
 Professional, entrepreneurial and consultancy work
 
-- **10. · 09/2026 – 02/2027** — Responsible  IUSS Pavia  Application of Active Mass Damper (AMD) systems to steel storage pallet racks subjected to seismic action  Contractor: ISAAC s.r.l.  Budget: €25,000.00
 - **9. · 11/2024 – 12/2024** — Responsible  IUSS Pavia  Development of a seismic vulnerability model (damage functions) for six cities in Morocco  Contractor: Guy Carpenter & Company, LLC  Budget: $10,000.00
 - **8. · 09/2024 – 10/2024** — Responsible  IUSS Pavia  Intensive course in “Risk Assessment and Emergency Management of Disasters due to Earthquake Hazard”  Contractor: Earthquake Disaster Policy Division, Ministry of the Interior and Safety, South Korea  Budget: $10,000.00
-- **7. · 04/2024 – today** — Founding Partner  RESISK s.r.l. – Research Engineering for Sustainable Risk Solutions  Spin-off of IUSS Pavia, founded together with three research fellows under the supervision of Ricardo Monteiro: Gianrocco Mucedero, Mattia Calò and Nicola Scattarreggia  RESISK carries out its activity in the field of civil engineering and quantitative analysis of risk, deriving from natural and anthropogenic hazards, by providing professional services, methodologies and tools to support both private clients and public bodies/legislators, through skills acquired in academia through advanced research.
 - **6. · 10/2022 –04/2023** — Consultant  IUSS Pavia and Eucentre Foundation  Piano di sviluppo della Fondazione IRCCS Policlinico San Matteo - Documento di Indirizzo della Progettazione  Sezione “Rischi da catastrofi naturali e originate dall’uomo”  Contractor: Fondazione IRCCS Policlinico San Matteo
 - **5. · 03/2022 –09/2022** — Responsible  IUSS Pavia  Design and Supervision of Reconstruction of Public Infrastructures in Cabo Delgado province, Mozambique  Contractor: A.R.S. Progetti S.P.A. e World Bank  Budget: $20,000.00
 - **4. · 07/2019** — Responsible  IUSS Pavia  Intensive course in “Risk Assessment and Emergency Management of Disasters due to Natural Hazards”  Contractor: Earthquake Disaster Policy Division, Ministry of the Interior and Safety, South Korea  Budget: €19,000.00
