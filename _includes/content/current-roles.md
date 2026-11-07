@@ -1,28 +1,22 @@
 ## Current Roles
 
-### Institutional and academic service
+### Institutional and academic service at IUSS Pavia
 
-- **10/2025–today** — Vice-Rector for International Relations  IUSS Pavia
-- **10/2023–today** — Member of the Management Board  University of Pavia and IUSS Pavia  II level Post-Master Vocational Programme in Earthquake Engineering
-- **10/2023–today** — Coordinator  IUSS Pavia and University of Pavia  PhD in Earthquake Engineering (ROSE)
-- **07/2022–today** — Member of the Administration Board  IUSS Pavia
-- **2021/2022–today** — Member of the Review Committee  University of Pavia and IUSS Pavia  MSc in Civil Engineering for Risk Mitigation from Natural Hazards
-- **10/2020–today** — Coordinator  IUSS Pavia and University of Pavia  PhD in Understanding and Managing Extremes (UME)
-- **06/2014 – today** — Rector’s Delegate  IUSS Pavia  Erasmus+ Mobility Programme, European Union
-- **a.y. 2023/2024 - today** — Member of the Admission Committee  PhD in Earthquake Engineering (ROSE), IUSS Pavia
-- **2017/2018 - today** — Member of the Admission Committee  MSc in Civil Engineering for Risk Mitigation from Natural Hazards
-- **11/2015 - today** — Member of the Final Exam Committee  Lisa Jusufi (Probabilistic seismic risk analysis of school buildings in Republic of North Macedonia) Doctor of Technical Sciences in the field of Earthquake Engineering, University “Ss. Cyril and Methodius” in Skopje, Institute of Earthquake Engineering and Engineering Seismology (IZIIS), April 20, 2026  António Simões (Seismic and energy reinforcement of mixed RC-masonry buildings for mitigation of economic and environmental impact) PhD in Civil Engineering, Technical University of Lisbon, Thesis Monitoring Committee (CAT), March 27, 2026  Giovanni Tondo (Metodologie per la valutazione a larga scala del comportamento sismico di edifici in muratura) PhD in Civil Engineering, University of Salento, May 13, 2024  Giacomo Miluccio (Structural behaviour and fragility evaluation of existing prestressed concrete bridge decks under traffic loads) PhD in Structural Engineering, Geotechnics and Seismic Risk, University of Naples Federico II, May 19, 2023  Tuba Tatar (Advanced Methodology for Estimation of Economic Losses in RC Buildings) PhD in Civil Engineering, University of Porto, Portugal, September 2019  Junaid Akbar (Strengthening of RC Frames using Haunch Retrofit Solutions), PhD in Civil Engineering, University of Engineering and Technology, Peshawar, Pakistan, February 2019  Luís Martins (Earthquake Damage and Loss Assessment of Reinforced Concrete Buildings) PhD in Civil Engineering, University of Porto, Portugal, May 14, 2018  Rita Peres (Performance Based Seismic Design and Assessment of Irregular Steel Structures) PhD in Civil Engineering, Technical University of Lisbon, Portugal, June 6, 2017  Fabrizio Cornalli (Evaluation of the Expected Annual Loss for Precast Concrete Industrial Structures) PhD in Civil Engineering, University of Bergamo, Italy, May 10, 2017  Luís Sousa (Development of innovative methodologies for the treatment of uncertainties in the earthquake loss assessment of building portfolios) PhD in Civil Engineering, University of Porto, Portugal, May 5, 2017  Miriam Lopez (Optimum seismic isolation design parameters for multi‐span slab‐girder skewed highway bridges) PhD in Civil Engineering, University of Porto, Portugal, November 6, 2015
-- **03/2019 – today** — Appointed Member  Work Group 12: Continuing Education and Professional Development  European Association of Earthquake Engineering
-- **05/2014 - today** — Rector  Collegio Internazionale per la Protezione Civile “Cardinale Agostino Riboldi”, Pavia, Italia (appointed by the Eucentre Foundation)
+- Vice-Rector for International Relations, IUSS Pavia
+- Member of the Management Board, II level Post-Master Vocational Programme in Earthquake Engineering
+- Coordinator, PhD in Earthquake Engineering (ROSE)
+- Member of the Administration Board, IUSS Pavia
+- Member of the Review Committee, MSc in Civil Engineering for Risk Mitigation from Natural Hazards
+- Coordinator, PhD in Understanding and Managing Extremes (UME)
+- Appointed Member, Work Group 12: Continuing Education and Professional Development, European Association of Earthquake Engineering
+- Rector, Collegio Internazionale per la Protezione Civile “Cardinale Agostino Riboldi”, Pavia, Italia (appointed by the Eucentre Foundation)
 
 ### Editorial appointments
 
-- **01/2021 - today** — Assistant Editor e Editorial Board Member  Journal of Earthquake Engineering – Taylor and Francis
-- **12/2019 - today** — Associate Editor  Frontiers of Built Environment  (Earthquake Engineering)
-- **10/2015 - today** — Editorial Board Member  Civil Engineering Journal, K.N. Toosi University of Technology, Tehran, Iran
-- **10/2010 - today** — Technical Reviewer for 34 peer-review journals  Earthquake Spectra, Engineering Structures, Earthquakes and Structures, Bulletin of Earthquake Engineering, Journal of Earthquake Engineering, Journal of Bridge Engineering, International Journal of Disaster Risk Reduction, Algorithms, Geosciences, Materials, Computers and Concrete, Earthquake Engineering and Engineering Vibration, Structures and Buildings, International Journal of Geo-Information, Arabian Journal Science Engineering, NED University Journal of Research, Civil Engineering Journal, Buildings, Structural Concrete, International Journal of Critical Infrastructure Protection, Engineering Applications of Artificial Intelligence, Advances in Structural Engineering, Reliability Engineering & System Safety, Earthquake Engineering and Structural Dynamics, Thin-Walled Structures, Plos One, Natural Hazards and Earth System Sciences, Geomatics, Natural Hazards and Risk, Frontiers in Built Environment, Structure and Infrastructure Engineering, Sustainable and Resilient Infrastructure, Heliyon, Results in Engineering, Civil Engineering.
+- Assistant Editor and Editorial Board Member, Journal of Earthquake Engineering – Taylor and Francis
+- Associate Editor, Frontiers of Built Environment, (Earthquake Engineering)
 
 ### Professional responsibilities
 
-- **10. · 09/2026 – 02/2027** — Responsible  IUSS Pavia  Application of Active Mass Damper (AMD) systems to steel storage pallet racks subjected to seismic action  Contractor: ISAAC s.r.l.  Budget: €25,000.00
-- **7. · 04/2024 – today** — Founding Partner  RESISK s.r.l. – Research Engineering for Sustainable Risk Solutions  Spin-off of IUSS Pavia, founded together with three research fellows under the supervision of Ricardo Monteiro: Gianrocco Mucedero, Mattia Calò and Nicola Scattarreggia  RESISK carries out its activity in the field of civil engineering and quantitative analysis of risk, deriving from natural and anthropogenic hazards, by providing professional services, methodologies and tools to support both private clients and public bodies/legislators, through skills acquired in academia through advanced research.
+- Founding Partner, RESISK s.r.l. – Research Engineering for Sustainable Risk Solutions, Spin-off of IUSS Pavia
+RESISK carries out its activity in the field of civil engineering and quantitative analysis of risk, deriving from natural and anthropogenic hazards, by providing professional services, methodologies and tools to support both private clients and public bodies/legislators, through skills acquired in academia through advanced research.
