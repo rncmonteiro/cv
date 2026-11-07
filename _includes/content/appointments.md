@@ -1,7 +1,5 @@
 ## Academic appointments
 
-Academic positions and affiliations
-
 - **07/02/2022 – 07/02/2034** — Qualification as Full Professor in Structural Engineering, Italy
 - **01/11/2019 – today** — Associate Professor, University School for Advanced Studies IUSS Pavia, Italy
 - **01/12/2011 – 31/10/2019** — Assistant Professor, University School for Advanced Studies IUSS Pavia, Italy
