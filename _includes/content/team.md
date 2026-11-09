@@ -14,7 +14,7 @@
     - Risk assessment and retrofitting of existing bridges
     - Multi-hazard vulnerability and robustness assessment of existing bridges
 
-**Gianrocco Mucedero** (Italy)
+<img src="{{ "/assets/gianrocco-mucedero.png" | relative_url }}" alt="Gianrocco Mucedero" width="64" style="vertical-align:middle; border-radius:5px; margin-right:12px;"> **Gianrocco Mucedero** (Italy)
     - Risk assessment and loss estimation of storage structures
     - Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty
 
@@ -54,7 +54,7 @@
 
 **Volkan Ozsarac** — PhD in Earthquake Engineering (ROSE), Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]
 
-**Gianrocco Mucedero** — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
+<img src="{{ "/assets/gianrocco-mucedero.png" | relative_url }}" alt="Gianrocco Mucedero" width="64" style="vertical-align:middle; border-radius:5px; margin-right:12px;"> **Gianrocco Mucedero** — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
 
 **Davit Shahnazaryan** — PhD in Earthquake Engineering (ROSE), Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]
 
