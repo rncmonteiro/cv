@@ -1,7 +1,5 @@
 ## Conference proceedings papers
 
-Complete list as reported in the CV
-
 **165.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, Pitilakis, D. (2026) Integration of social vulnerability for seismic risk assessment of Greece. Lecture Notes in Civil Engineering, 909, 887-895 (Proceedings of ReSBE 2026 – ReShaping the Built Environment through Sustainability and Circularity, October 20-23, Thessaloniki, Greece).
 
 **164.** Borzi, B.; Di Meo, A.; Quaroni, D.; Bozzoni, F.; Salic Makreska, R.; Bojadjieva, J.; Edip, K.; Bogdanovic, A.; Capragoski, G.; Filipovski, D.; Neziri, Z.; Nanevska-Juloska, A.; Apostolska, R.; Gjorgjiev, I.; Riga, E.; Amendola, C., Pitilakis, D., Monteiro, R., Mucedero, G., Calò, M., Qirjazi, G., Luka, R., Dushi, E., Ktenidou, O.-J., Nikas, K., Stefanoski, S., Klajdi, N., Atanasovska, V., Jovanovski, V., Van Wijk, T., Zgjanjolli, R. (2026) EMERGE: A Web-Based Platform for Multi-Hazard Assessment and Early Crisis Response in the Cross-Border Region of North Macedonia, Albania, and Greece. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.
