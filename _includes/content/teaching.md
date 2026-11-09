@@ -1,4 +1,4 @@
-## Teaching activities
+## Teaching
 
 - **03/2026** — Invited Lecturer, Technical Association for Building Industrialisation and Italian Association of Reinforced and Prestressed Concrete, Risk assessment and innovative reinforcement solutions for existing bridges, Module: “Multi-criteria decision-making for identification optimal retrofitting solutions”
 - **12/2022, 12/2023, 12/2024** — Invited Lecturer, ETH Zurich, Switzerland  Certificate in Advanced Studies in Seismic Assessment and Retrofitting, Module 3.9: “Integrated Assessment and Retrofitting Strategies”
