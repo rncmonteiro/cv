@@ -14,11 +14,16 @@
     - Risk assessment and retrofitting of existing bridges
     - Multi-hazard vulnerability and robustness assessment of existing bridges
 
-<img src="{{ "/assets/gianrocco-mucedero.png" | relative_url }}" alt="Gianrocco Mucedero" width="180" style="display:block; width:180px; max-width:100%; height:auto; border-radius:6px; margin:14px 0 12px 0;">
-
-**Gianrocco Mucedero** (Italy)
-    - Risk assessment and loss estimation of storage structures
-    - Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src='{{ "/assets/gianrocco-mucedero.png" | relative_url }}' alt="Gianrocco Mucedero" width="180" style="width:180px; max-width:100%; height:auto; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0;">
+    <strong>Gianrocco Mucedero</strong> (Italy)
+    <ul>
+      <li>Risk assessment and loss estimation of storage structures</li>
+      <li>Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty</li>
+    </ul>
+  </div>
+</div>
 
 **Mattia Calò (Italy)** — Multi-hazard vulnerability and robustness assessment of bridges
 
@@ -56,9 +61,12 @@
 
 **Volkan Ozsarac** — PhD in Earthquake Engineering (ROSE), Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]
 
-<img src="{{ "/assets/gianrocco-mucedero.png" | relative_url }}" alt="Gianrocco Mucedero" width="180" style="display:block; width:180px; max-width:100%; height:auto; border-radius:6px; margin:14px 0 12px 0;">
-
-**Gianrocco Mucedero** — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src='{{ "/assets/gianrocco-mucedero.png" | relative_url }}' alt="Gianrocco Mucedero" width="180" style="width:180px; max-width:100%; height:auto; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0;">
+    <strong>Gianrocco Mucedero</strong> — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
+  </div>
+</div>
 
 **Davit Shahnazaryan** — PhD in Earthquake Engineering (ROSE), Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]
 
