@@ -1,6 +1,7 @@
 ## Keynote lectures and presentations
 
-- **09/2026** — Invited Speaker, 1st China-Europe Youth AI Innovation Salon on Structural Engineering (CEYAI-SE 2026), August 31 - September 9, 2026, Southeast University, Nanjing, China\*Automated Multi-Objective Optimization of Seismic Retrofitting for Existing Buildings*
+- **09/2026** — Invited Speaker, 1st China-Europe Youth AI Innovation Salon on Structural Engineering (CEYAI-SE 2026), August 31 - September 9, 2026, Southeast University, Nanjing, China\
+  *Automated Multi-Objective Optimization of Seismic Retrofitting for Existing Buildings*
 - **10/2025** — Invited Speaker, Knowledge Transfer Workshop in “Resilient and Smart Schools – Regional Prioritization Based on Seismic, Energy Efficiency and Socio-Economic Performance Indicators”, Institute of Earthquake Engineering and Engineering Seismology (IZIIS), Ss. Cyril and Methodius University, Skopje, North Macedonia, *Integrated methodologies for assessing seismic safety, energy efficiency and socio-economic vulnerability*
 - **04/2024** — Keynote Lecturer, National Conference in Seismology and Earthquake Engineering (SISMICA2024), Guimarães, Portugal, *On the use of seismic risk parameters to define and optimise retrofitting of buildings based on multiple criteria*
 - **05/2023** — Invited Speaker, Università del Salento, Dottorato in Ingegneria materiali, strutture e nanotecnologie, *Integrated seismic and energy efficiency retrofitting of existing RC buildings*
