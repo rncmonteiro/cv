@@ -64,7 +64,8 @@
 <div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src='{{ "/assets/gianrocco-mucedero.png" | relative_url }}' alt="Gianrocco Mucedero" width="180" style="width:180px; max-width:100%; height:auto; border-radius:6px; flex-shrink:0;">
   <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
-    <strong>Gianrocco Mucedero</strong> — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
+    <strong>Gianrocco Mucedero</strong> — PhD in Earthquake Engineering (ROSE)\ 
+      *Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy* [S]
   </div>
 </div>
 
