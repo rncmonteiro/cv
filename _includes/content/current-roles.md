@@ -1,13 +1,13 @@
 ## Current Roles
 
-### Academic
+### Academic at IUSS Pavia
 
-- Vice-Rector for International Relations, IUSS Pavia
-- Member of the Management Board, II level Post-Master Vocational Programme in Earthquake Engineering
+- Vice-Rector for International Relations
 - Coordinator, PhD in Earthquake Engineering (ROSE)
+- Coordinator, PhD in Understanding and Managing Extremes (UME)
+- Member of the Management Board, II level Post-Master Vocational Programme in Earthquake Engineering
 - Member of the Administration Board, IUSS Pavia
 - Member of the Review Committee, MSc in Civil Engineering for Risk Mitigation from Natural Hazards
-- Coordinator, PhD in Understanding and Managing Extremes (UME)
 - Appointed Member, Work Group 12: Continuing Education and Professional Development, European Association of Earthquake Engineering
 - Rector, Collegio Internazionale per la Protezione Civile “Cardinale Agostino Riboldi”, Pavia, Italia (appointed by the Eucentre Foundation)
 
