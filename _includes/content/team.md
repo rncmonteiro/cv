@@ -4,75 +4,75 @@
 
 #### Current
 
-** Mattia Calò (Italy) — Advanced numerical modelling of prestressed reinforced concrete bridges
+**Mattia Calò** (Italy) — Advanced numerical modelling of prestressed reinforced concrete bridges
 
-** Enes Veliu (Albania) — Quantifying seismic risk and assessing energy performance and environmental impact of existing buildings in Portugal
+**Enes Veliu** (Albania) — Quantifying seismic risk and assessing energy performance and environmental impact of existing buildings in Portugal
 
 #### Past
 
-** Nicola Scattarreggia (Italy)
+**Nicola Scattarreggia** (Italy)
     - Risk assessment and retrofitting of existing bridges
     - Multi-hazard vulnerability and robustness assessment of existing bridges
 
-** Gianrocco Mucedero (Italy)
+**Gianrocco Mucedero** (Italy)
     - Risk assessment and loss estimation of storage structures
     - Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty
 
-** Mattia Calò (Italy) — Multi-hazard vulnerability and robustness assessment of bridges
+**Mattia Calò (Italy)** — Multi-hazard vulnerability and robustness assessment of bridges
 
-** Andres Abarca Jimenez (Costa Rica)
+**Andres Abarca Jimenez** (Costa Rica)
     - Risk assessment and management of existing reinforced concrete bridges
     - Seismic vulnerability of residential buildings and reinforced concrete bridges in Algeria
 
-** Giammaria Gabbianelli (Italy) — Review of seismic actions and design techniques
+**Giammaria Gabbianelli** (Italy) — Review of seismic actions and design techniques
 
-** Wilson Carofilis (Ecuador) — Interventions to reduce seismic risk in existing buildings
+**Wilson Carofilis** (Ecuador) — Interventions to reduce seismic risk in existing buildings
 
-** Gerard O’Reilly (Ireland)
+**Gerard O’Reilly** (Ireland)
     - Advanced assessment of seismic performance and collapse probability of existing masonry-infilled reinforced concrete buildings (Main supervisor: Prof. Rui Pinho, University of Pavia)
     - Risk analysis of critical infrastructure (Main supervisor: Prof. Michele Calvi, IUSS Pavia)
 
-** Iason Grigoratos (Greece) — Integrated seismic vulnerability assessment of reinforced concrete buildings (Main supervisor: Dr. Paola Ceresa)
+**Iason Grigoratos** (Greece) — Integrated seismic vulnerability assessment of reinforced concrete buildings (Main supervisor: Dr. Paola Ceresa)
 
-** Vania Cerchiello (Italy) — Mitigation of seismic risk in buildings (Main supervisor: Dr. Paola Ceresa)
+**Vania Cerchiello** (Italy) — Mitigation of seismic risk in buildings (Main supervisor: Dr. Paola Ceresa)
 
 ### PhD Students ([S] Main Supervisor, [CS] Co-Supervisor)
 
 #### Current
 
-** Mehmet Firat Aydin — PhD in Earthquake Engineering (ROSE) Large-scale seismic risk analysis and retrofitting decision-making [S]
+**Mehmet Firat Aydin** — PhD in Earthquake Engineering (ROSE) Large-scale seismic risk analysis and retrofitting decision-making [S]
 
-** Maryam Saberdelsadeh — PhD in Civil Engineering (University of Porto) Optimised displacement-based retrofitting of existing buildings with steel braces [CS]
+**Maryam Saberdelsadeh** — PhD in Civil Engineering (University of Porto) Optimised displacement-based retrofitting of existing buildings with steel braces [CS]
 
-** Ataklti Gebrehiwet — PhD in Earthquake Engineering (ROSE), Integrated retrofitting of deck-isolated bridges [S]
+**Ataklti Gebrehiwet** — PhD in Earthquake Engineering (ROSE), Integrated retrofitting of deck-isolated bridges [S]
 
-** Besim Yukselen — PhD in Earthquake Engineering (ROSE), Multi-objective optimal retrofitting of existing buildings [S]
+**Besim Yukselen** — PhD in Earthquake Engineering (ROSE), Multi-objective optimal retrofitting of existing buildings [S]
 
 #### Past
 
-** Rita Couto — PhD in Earthquake Engineering (ROSE), Integrated seismic and energy performance of residential buildings [S]
+**Rita Couto** — PhD in Earthquake Engineering (ROSE), Integrated seismic and energy performance of residential buildings [S]
 
-** Volkan Ozsarac — PhD in Earthquake Engineering (ROSE), Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]
+**Volkan Ozsarac** — PhD in Earthquake Engineering (ROSE), Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]
 
-** Gianrocco Mucedero — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
+**Gianrocco Mucedero** — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
 
-** Davit Shahnazaryan — PhD in Earthquake Engineering (ROSE), Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]
+**Davit Shahnazaryan** — PhD in Earthquake Engineering (ROSE), Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]
 
-** Andres Abarca — PhD in Earthquake Engineering (ROSE) Seismic assessment of RC bridge infrastructure [S]
+**Andres Abarca** — PhD in Earthquake Engineering (ROSE) Seismic assessment of RC bridge infrastructure [S]
 
-** Carlotta Rodriquez — PhD in Understanding and Managing Extremes, A framework to assess disaster resilience based on sustainable development goals [CS]
+**Carlotta Rodriquez** — PhD in Understanding and Managing Extremes, A framework to assess disaster resilience based on sustainable development goals [CS]
 
-** Jair Torres — PhD in Understanding and Managing Extremes, Crossing borders: A comparative assessment of community resilience to natural hazards in Arica, Chile and Tacna, Peru [CS]
+**Jair Torres** — PhD in Understanding and Managing Extremes, Crossing borders: A comparative assessment of community resilience to natural hazards in Arica, Chile and Tacna, Peru [CS]
 
-** Antonio Silva — PhD in Earthquake Engineering (ROSE), Implications of earthquake-induced loss control in seismic design provisions [S]
+**Antonio Silva** — PhD in Earthquake Engineering (ROSE), Implications of earthquake-induced loss control in seismic design provisions [S]
 
-** Camilo Perdomo — PhD in Earthquake Engineering (ROSE), Direct Economic Loss Assessment of Multi-Span Continuous RC Bridges under Seismic Hazard [S]
+**Camilo Perdomo** — PhD in Earthquake Engineering (ROSE), Direct Economic Loss Assessment of Multi-Span Continuous RC Bridges under Seismic Hazard [S]
 
-** Annibale Vecere — PhD in Understanding and Managing Extremes, Near Real-time Flood Loss Estimation as a Basis for Risk Financing Mechanisms [CS]
+**Annibale Vecere** — PhD in Understanding and Managing Extremes, Near Real-time Flood Loss Estimation as a Basis for Risk Financing Mechanisms [CS]
 
-** Yadong Jiang — PhD in Earthquake Engineering (ROSE), Seismic assessment of composite frames with concrete-filled steel tube columns [S]
+**Yadong Jiang** — PhD in Earthquake Engineering (ROSE), Seismic assessment of composite frames with concrete-filled steel tube columns [S]
 
-** Claudia Zelaschi — PhD in Earthquake Engineering (ROSE), Seismic assessment of spatially-distributed RC bridge portfolios [S]
+**Claudia Zelaschi** — PhD in Earthquake Engineering (ROSE), Seismic assessment of spatially-distributed RC bridge portfolios [S]
 
 ### Master Students
 
