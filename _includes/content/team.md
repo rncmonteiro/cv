@@ -4,42 +4,42 @@
 
 #### Current
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/mattia-calo.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Mattia Calò</strong> (Italy)
-    <ul>
+    <ul style="margin-bottom:0 !important; padding-bottom:0;">
       <li>Advanced numerical modelling of prestressed reinforced concrete bridges</li>
       <li>Multi-hazard vulnerability and robustness assessment of bridges</li>
     </ul>
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/enes-veliu.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Enes Veliu</strong> (Albania) — Quantifying seismic risk and assessing energy performance and environmental impact of existing buildings in Portugal
   </div>
 </div>
 
 #### Past
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/nicola-scattarreggia.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Nicola Scattarreggia</strong> (Italy)
-    <ul>
+    <ul style="margin-bottom:0 !important; padding-bottom:0;">
       <li>Risk assessment and retrofitting of existing bridges</li>
       <li>Multi-hazard vulnerability and robustness assessment of existing bridges</li>
     </ul>
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/gianrocco-mucedero.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Gianrocco Mucedero</strong> (Italy)
-    <ul>
+    <ul style="margin-bottom:0 !important; padding-bottom:0;">
       <li>Risk assessment and loss estimation of storage structures</li>
       <li>Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty</li>
     </ul>
@@ -48,52 +48,52 @@
 
 
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Andres Abarca Jimenez</strong> (Costa Rica)
-    <ul>
+    <ul style="margin-bottom:0 !important; padding-bottom:0;">
       <li>Risk assessment and management of existing reinforced concrete bridges</li>
       <li>Seismic vulnerability of residential buildings and reinforced concrete bridges in Algeria</li>
     </ul>
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/giammaria-gabbianelli.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Giammaria Gabbianelli</strong> (Italy) — Review of seismic actions and design techniques
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Wilson Carofilis</strong> (Ecuador) — Interventions to reduce seismic risk in existing buildings
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Gerard O’Reilly</strong> (Ireland)
-    <ul>
+    <ul style="margin-bottom:0 !important; padding-bottom:0;">
       <li>Advanced assessment of seismic performance and collapse probability of existing masonry-infilled reinforced concrete buildings (Main supervisor: Prof. Rui Pinho, University of Pavia)</li>
       <li>Risk analysis of critical infrastructure (Main supervisor: Prof. Michele Calvi, IUSS Pavia)</li>
     </ul>
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Iason Grigoratos</strong> (Greece) — Integrated seismic vulnerability assessment of reinforced concrete buildings (Main supervisor: Dr. Paola Ceresa)
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Vania Cerchiello</strong> (Italy) — Mitigation of seismic risk in buildings (Main supervisor: Dr. Paola Ceresa)
   </div>
 </div>
@@ -102,116 +102,116 @@
 
 #### Current
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/mehmet-firat-aydin.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Mehmet Firat Aydin</strong> — PhD in Earthquake Engineering (ROSE) Large-scale seismic risk analysis and retrofitting decision-making [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/maryam-saberdelsadeh.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Maryam Saberdelsadeh</strong> — PhD in Civil Engineering (University of Porto) Optimised displacement-based retrofitting of existing buildings with steel braces [CS]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/ataklti-gebrehiwet.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Ataklti Gebrehiwet</strong> — PhD in Earthquake Engineering (ROSE), Integrated retrofitting of deck-isolated bridges [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/besim-yukselen.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Besim Yukselen</strong> — PhD in Earthquake Engineering (ROSE), Multi-objective optimal retrofitting of existing buildings [S]
   </div>
 </div>
 
 #### Past
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/rita-couto.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Rita Couto</strong> — PhD in Earthquake Engineering (ROSE), Integrated seismic and energy performance of residential buildings [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/volkan-ozsarac.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Volkan Ozsarac</strong> — PhD in Earthquake Engineering (ROSE), Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/gianrocco-mucedero.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Gianrocco Mucedero</strong> — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/davit-shahnazaryan.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Davit Shahnazaryan</strong> — PhD in Earthquake Engineering (ROSE), Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Andres Abarca</strong> — PhD in Earthquake Engineering (ROSE) Seismic assessment of RC bridge infrastructure [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/carlotta-rodriquez.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Carlotta Rodriquez</strong> — PhD in Understanding and Managing Extremes, A framework to assess disaster resilience based on sustainable development goals [CS]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/jair-torres.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Jair Torres</strong> — PhD in Understanding and Managing Extremes, Crossing borders: A comparative assessment of community resilience to natural hazards in Arica, Chile and Tacna, Peru [CS]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Antonio Silva</strong> — PhD in Earthquake Engineering (ROSE), Implications of earthquake-induced loss control in seismic design provisions [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/camilo-perdomo.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Camilo Perdomo</strong> — PhD in Earthquake Engineering (ROSE), Direct Economic Loss Assessment of Multi-Span Continuous RC Bridges under Seismic Hazard [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/annibale-vecere.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Annibale Vecere</strong> — PhD in Understanding and Managing Extremes, Near Real-time Flood Loss Estimation as a Basis for Risk Financing Mechanisms [CS]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/yadong-jiang.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Yadong Jiang</strong> — PhD in Earthquake Engineering (ROSE), Seismic assessment of composite frames with concrete-filled steel tube columns [S]
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <div aria-hidden="true" style="width:180px; min-width:180px; height:180px; flex-shrink:0;"></div>
-  <div style="flex:1 1 240px; min-width:0; align-self:flex-end;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Claudia Zelaschi</strong> — PhD in Earthquake Engineering (ROSE), Seismic assessment of spatially-distributed RC bridge portfolios [S]
   </div>
 </div>
