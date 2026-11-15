@@ -190,3 +190,16 @@ body{background:var(--paper);color:var(--ink)}
 #team h4{font-size:1.02rem;color:var(--ink);margin:22px 0 12px}
 #team ul{margin:0 0 22px}
 #team li{padding:9px 0;border-top:1px solid var(--line)}
+
+/* Reduce the gap between Conference Papers and Keynote Lectures only.
+   Add at the very end of styles.css. */
+#conference-papers {
+  padding-bottom: 20px;
+}
+#lectures {
+  padding-top: 24px;
+}
+@media (max-width: 700px) {
+  #conference-papers { padding-bottom: 16px; }
+  #lectures { padding-top: 22px; }
+}
