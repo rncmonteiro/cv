@@ -2,6 +2,8 @@
 
 [S] Speaker [KL] Keynote Lecture
 
+[2026]
+
 **165.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, Pitilakis, D. (2026) Integration of social vulnerability for seismic risk assessment of Greece. Lecture Notes in Civil Engineering, 909, 887-895 (Proceedings of ReSBE 2026 – ReShaping the Built Environment through Sustainability and Circularity, October 20-23, Thessaloniki, Greece).
 
 **164.** Borzi, B.; Di Meo, A.; Quaroni, D.; Bozzoni, F.; Salic Makreska, R.; Bojadjieva, J.; Edip, K.; Bogdanovic, A.; Capragoski, G.; Filipovski, D.; Neziri, Z.; Nanevska-Juloska, A.; Apostolska, R.; Gjorgjiev, I.; Riga, E.; Amendola, C., Pitilakis, D., Monteiro, R., Mucedero, G., Calò, M., Qirjazi, G., Luka, R., Dushi, E., Ktenidou, O.-J., Nikas, K., Stefanoski, S., Klajdi, N., Atanasovska, V., Jovanovski, V., Van Wijk, T., Zgjanjolli, R. (2026) EMERGE: A Web-Based Platform for Multi-Hazard Assessment and Early Crisis Response in the Cross-Border Region of North Macedonia, Albania, and Greece. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.
@@ -41,6 +43,8 @@
 **147.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2026) An integrated regional prioritisation framework for seismic retrofitting of residential buildings. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1951–1958.
 
 **146.** Yukselen, B., Mucedero, G., Monteiro, R. (2026) Enhancing Multi-Objective Seismic Retrofitting Design Through Optimisation. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1943–1950.
+
+[2025]
 
 **145.** Abrahamczyk, L., Uzair, A., Apostolska, R., Höffer, R., Salzinger, J., Winkelmann, U., Penava, D., Minazek, K., Lozancic, S., Lopes, N., Vila Real, P., Kahler, U., Monteiro, R., Scattarreggia, N., Delova, E. (2025) Forensic Structural Engineering Database for HEI and Innovative Pilot Course – RECONSTRUCT Project. Proceedings of the 21st International Symposium of Macedonian Association of Structural Engineers (MASE 2025), Ohrid, North Macedonia, September 24-27, 2025.
 
