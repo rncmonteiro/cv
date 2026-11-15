@@ -39,7 +39,7 @@
 
 <div style="margin:14px 0 22px;">
   <div style="border:0 !important;"><strong>Nicola Scattarreggia</strong> (Italy)</div>
-  <div style="margin:6px 0 0 18px;">
+  <div style="margin:5px 0 0; padding:0;">
     <div style="margin:3px 0; border:0 !important;">- Risk assessment and retrofitting of existing bridges</div>
     <div style="margin:3px 0; border:0 !important;">- Multi-hazard vulnerability and robustness assessment of existing bridges</div>
   </div>
@@ -51,7 +51,7 @@
 
 <div style="margin:14px 0 22px;">
   <div style="border:0 !important;"><strong>Andres Abarca Jimenez</strong> (Costa Rica)</div>
-  <div style="margin:6px 0 0 18px;">
+  <div style="margin:5px 0 0; padding:0;">
     <div style="margin:3px 0; border:0 !important;">- Risk assessment and management of existing reinforced concrete bridges</div>
     <div style="margin:3px 0; border:0 !important;">- Seismic vulnerability of residential buildings and reinforced concrete bridges in Algeria</div>
   </div>
@@ -69,7 +69,7 @@
 
 <div style="margin:14px 0 22px;">
   <div style="border:0 !important;"><strong>Gerard O’Reilly</strong> (Ireland)</div>
-  <div style="margin:6px 0 0 18px;">
+  <div style="margin:5px 0 0; padding:0;">
     <div style="margin:3px 0; border:0 !important;">- Advanced assessment of seismic performance and collapse probability of existing masonry-infilled reinforced concrete buildings (Main supervisor: Prof. Rui Pinho, University of Pavia)</div>
     <div style="margin:3px 0; border:0 !important;">- Risk analysis of critical infrastructure (Main supervisor: Prof. Michele Calvi, IUSS Pavia)</div>
   </div>
@@ -193,98 +193,146 @@
 
 #### Past
 
-Christou. I. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE), Towards a Database of Fragility Functions for Retrofitted RC Buildings for Regional Analysis
+Christou. I. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)  
+Towards a Database of Fragility Functions for Retrofitted RC Buildings for Regional Analysis
 
-Arnesano, A. — MSc in Civil Engineering (University of Pavia), Impact of masonry infills on the seismic performance of reinforced concrete structures
+Arnesano, A. — MSc in Civil Engineering (University of Pavia)  
+Impact of masonry infills on the seismic performance of reinforced concrete structures
 
-Vergaro, M. — MSc in Civil Engineering (University of Salento), Seismic vulnerability and seismic risk classification of an existing school building: impact of masonry infills
+Vergaro, M. — MSc in Civil Engineering (University of Salento)  
+Seismic vulnerability and seismic risk classification of an existing school building: impact of masonry infills
 
-Damiani, F. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE), Seismic design and loss assessment of base-isolated structures using a PBEE framework
+Damiani, F. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)  
+Seismic design and loss assessment of base-isolated structures using a PBEE framework
 
-Garzia, G. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE), Seismic Assessment and Global Retrofitting of Reinforced Concrete Buildings using a Displacement-Based Design Procedure
+Garzia, G. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)  
+Seismic Assessment and Global Retrofitting of Reinforced Concrete Buildings using a Displacement-Based Design Procedure
 
-Salvalalio, C. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE), Seismic Assessment and Retrofitting of Exiting RC Buildings
+Salvalalio, C. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)  
+Seismic Assessment and Retrofitting of Exiting RC Buildings
 
-Purushothama, C. — MSc in Geomechanics, Civil Engineering and Risks (University of Grenoble Alpes, France), Simplified Seismic Assessment of Infilled RC Frames
+Purushothama, C. — MSc in Geomechanics, Civil Engineering and Risks (University of Grenoble Alpes, France)  
+Simplified Seismic Assessment of Infilled RC Frames
 
-Leone, J. — MSc in Earthquake Engineering and Engineering Seismology (MEEES), Evaluation of Risk Consistency of Force-Based and Displacement-Based Design Methods
+Leone, J. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
+Evaluation of Risk Consistency of Force-Based and Displacement-Based Design Methods
 
-Mora, A. — MSc in Earthquake Engineering and Engineering Seismology (MEEES), Evaluation of Risk Consistency of Force-Based and Displacement-Based Design Methods for Reinforced Concrete Moment Frames
+Mora, A. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
+Evaluation of Risk Consistency of Force-Based and Displacement-Based Design Methods for Reinforced Concrete Moment Frames
 
-Akan, O. — MSc in Earthquake Engineering and Engineering Seismology (MEEES), Establishing Displaced Shapes of Infilled RC Frames in Displacement-Based Design and Assessment
+Akan, O. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
+Establishing Displaced Shapes of Infilled RC Frames in Displacement-Based Design and Assessment
 
-Cripstyani, M. — MSc in Earthquake Engineering and Engineering Seismology (MEEES), Seismic Risk Assessment of Bridges in Indonesia
+Cripstyani, M. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
+Seismic Risk Assessment of Bridges in Indonesia
 
-Ahmed, S. — MSc in Earthquake Engineering and Engineering Seismology (MEEES), Large-Scale Seismic Risk Assessment and Definition of Retrofitting Strategies for RC Buildings
+Ahmed, S. — MSc in Earthquake Engineering and Engineering Seismology (MEEES)  
+Large-Scale Seismic Risk Assessment and Definition of Retrofitting Strategies for RC Buildings
 
-Gonzalez, I. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Implications of seismic design provisions on accelerations sensitive non-structural components due to earthquake loading
+Gonzalez, I. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Implications of seismic design provisions on accelerations sensitive non-structural components due to earthquake loading
 
-Alvarez, L. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Effect of material mechanical property variability on seismic performance of steel frames
+Alvarez, L. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Effect of material mechanical property variability on seismic performance of steel frames
 
-Shahnazaryan, D. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Comparison of earthquake-induced losses of reinforced concrete and steel frame buildings
+Shahnazaryan, D. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Comparison of earthquake-induced losses of reinforced concrete and steel frame buildings
 
-Rica, V. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES), Integrated Seismic Risk in Palestine
+Rica, V. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+Integrated Seismic Risk in Palestine
 
-Carofilis, W. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Seismic Loss Assessment and Retrofitting Strategies of a RC School Building
+Carofilis, W. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Seismic Loss Assessment and Retrofitting Strategies of a RC School Building
 
-Bellotti, V. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Seismic assessment of low-rise masonry buildings in Groningen’s province (NL)
+Bellotti, V. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Seismic assessment of low-rise masonry buildings in Groningen’s province (NL)
 
-Zampieri, S. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Human-Induced Seismicity in Groningen: Prioritization of risk assessments and Resilience-Based Design
+Zampieri, S. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Human-Induced Seismicity in Groningen: Prioritization of risk assessments and Resilience-Based Design
 
-Bagavasingam, T. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES), Development of Fragility Curves for RC Buildings in Northern Algeria
+Bagavasingam, T. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+Development of Fragility Curves for RC Buildings in Northern Algeria
 
-Mercurio, A. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Floor Response Spectrum for Seismic Design: Intervention on a High-Rise Building in Milan
+Mercurio, A. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Floor Response Spectrum for Seismic Design: Intervention on a High-Rise Building in Milan
 
-Borozan J. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Seismic assessment of RC buildings considering soil-structure interaction
+Borozan J. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Seismic assessment of RC buildings considering soil-structure interaction
 
-O’Hearne N. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Seismic numerical assessment of historical buildings
+O’Hearne N. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Seismic numerical assessment of historical buildings
 
-Musta P. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES), Simplified Numerical Models for Seismic Performance of CFSTs
+Musta P. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+Simplified Numerical Models for Seismic Performance of CFSTs
 
-Gaviria A. — MSc in Risk and Emergency Management, Database of standards, practices and procedures for disaster risk reduction
+Gaviria A. — MSc in Risk and Emergency Management  
+Database of standards, practices and procedures for disaster risk reduction
 
-Sarchi, L. — MSc in Risk and Emergency Management, Numerical modeling of non-engineered structures
+Sarchi, L. — MSc in Risk and Emergency Management  
+Numerical modeling of non-engineered structures
 
-Perdomo C. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES), Use of Generalized Force Vectors for multi-mode pushover analysis of bridges
+Perdomo C. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+Use of Generalized Force Vectors for multi-mode pushover analysis of bridges
 
-Kalemi, B. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES), Seismic Performance of RC Filled Steel Columns
+Kalemi, B. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+Seismic Performance of RC Filled Steel Columns
 
-Mystiliadi, A. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES), Steel fibres reinforced concrete in static and dynamic conditions
+Mystiliadi, A. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+Steel fibres reinforced concrete in static and dynamic conditions
 
-Qu, L. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES), Seismic performance of RC structures with mixed steel-FRP rebars
+Qu, L. — MSc Erasmus Mundus in Earthquake Engineering and Engineering Seismology (MEEES)  
+Seismic performance of RC structures with mixed steel-FRP rebars
 
-Vecere, A. — MSc in Risk and Emergency Management, Post Disaster Needs Assessment – Shelter structures
+Vecere, A. — MSc in Risk and Emergency Management  
+Post Disaster Needs Assessment – Shelter structures
 
-Ejiofor, M. — MSc in Risk and Emergency Management, Flood Risk Model for Nigeria
+Ejiofor, M. — MSc in Risk and Emergency Management  
+Flood Risk Model for Nigeria
 
-Civiletti, G. — MSc in Risk and Emergency Management, Improved models for increased seismic risk awareness
+Civiletti, G. — MSc in Risk and Emergency Management  
+Improved models for increased seismic risk awareness
 
-Jiang, Y. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Sustainable High-Performance Concrete-Steel Tubular Columns for Seismic Areas
+Jiang, Y. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Sustainable High-Performance Concrete-Steel Tubular Columns for Seismic Areas
 
-Ahmed, K. — MSc in Risk and Emergency Management, Seismic Risk Assessment in Pakistan
+Ahmed, K. — MSc in Risk and Emergency Management  
+Seismic Risk Assessment in Pakistan
 
-Ghazaryan, A. — MSc in Risk and Emergency Management, Disaster risk financing and insurance strategy
+Ghazaryan, A. — MSc in Risk and Emergency Management  
+Disaster risk financing and insurance strategy
 
-Keramat, S. — MSc in Risk and Emergency Management, Reducing Disaster Risk through Promotion of Rights and Good Governance
+Keramat, S. — MSc in Risk and Emergency Management  
+Reducing Disaster Risk through Promotion of Rights and Good Governance
 
-Zhang, X. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Different Approaches to Derive Analytical Fragility Functions of Bridges
+Zhang, X. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Different Approaches to Derive Analytical Fragility Functions of Bridges
 
-Zelaschi, C. — MSc in Earthquake Engineering and Engineering Seismology (ROSE), Systemic characterization of RC bridges for seismic loss assessment
+Zelaschi, C. — MSc in Earthquake Engineering and Engineering Seismology (ROSE)  
+Systemic characterization of RC bridges for seismic loss assessment
 
-Sriwastava, A. — MSc in Risk and Emergency Management, Development of a methodology to distribute existing rainfall amounts on terrain and simulation of rainfall induced flooding
+Sriwastava, A. — MSc in Risk and Emergency Management  
+Development of a methodology to distribute existing rainfall amounts on terrain and simulation of rainfall induced flooding
 
-Sepitci, B. — MSc in Risk and Emergency Management, The Relationship between Global Climate Change and Rainfall Induced Natural Hazards
+Sepitci, B. — MSc in Risk and Emergency Management  
+The Relationship between Global Climate Change and Rainfall Induced Natural Hazards
 
-Santos, R. — MSc in Risk and Emergency Management, Assessing housing needs following the Canterbury Earthquakes: A critical review of predictive models and feasibility of their implementation in New Zealand
+Santos, R. — MSc in Risk and Emergency Management  
+Assessing housing needs following the Canterbury Earthquakes: A critical review of predictive models and feasibility of their implementation in New Zealand
 
-González, R. — MSc in Risk and Emergency Management, From hurricane hazard modelling to risk assessment; a comparative study
+González, R. — MSc in Risk and Emergency Management  
+From hurricane hazard modelling to risk assessment; a comparative study
 
-Servi, Y. — MSc in Risk and Emergency Management, Disaster Risk Management for the East Asia and Pacific Region
+Servi, Y. — MSc in Risk and Emergency Management  
+Disaster Risk Management for the East Asia and Pacific Region
 
-Endire, Y. — MSc in Risk and Emergency Management, Wildfire Risk Assessment in Benishangul Gumuz Regional State of Ethiopia
+Endire, Y. — MSc in Risk and Emergency Management  
+Wildfire Risk Assessment in Benishangul Gumuz Regional State of Ethiopia
 
-Carvalho, A. — MSc in Civil Engineering (University of Porto), Seismic assessment of reinforced concrete bridges
+Carvalho, A. — MSc in Civil Engineering (University of Porto)  
+Seismic assessment of reinforced concrete bridges
 
-Sousa, L. — MSc in Civil Engineering (University of Porto), Seismic assessment of reinforced concrete hollow pier bridges
+Sousa, L. — MSc in Civil Engineering (University of Porto)  
+Seismic assessment of reinforced concrete hollow pier bridges
 
-Ribeiro, R — MSc in Civil Engineering (University of Porto), Pushover analysis of reinforced concrete bridges
+Ribeiro, R — MSc in Civil Engineering (University of Porto)  
+Pushover analysis of reinforced concrete bridges
