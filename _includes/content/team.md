@@ -2,12 +2,10 @@
 
 ### Post-doctoral researchers
 
-#### Current
-
 <div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/mattia-calo.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
   <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Mattia Calò</strong> (Italy)
+    <strong>Mattia Calò</strong> (Italy), Post-doc
     <ul style="margin-bottom:0 !important; padding-bottom:0;">
       <li>Advanced numerical modelling of prestressed reinforced concrete bridges</li>
       <li>Multi-hazard vulnerability and robustness assessment of bridges</li>
@@ -18,7 +16,7 @@
 <div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/enes-veliu.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
   <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Enes Veliu</strong> (Albania) — Quantifying seismic risk and assessing energy performance and environmental impact of existing buildings in Portugal
+    <strong>Enes Veliu</strong> (Albania), Post-doc - Quantifying seismic risk and assessing energy performance and environmental impact of existing buildings in Portugal
   </div>
 </div>
 
@@ -98,7 +96,9 @@
   </div>
 </div>
 
-### PhD Students ([S] Main Supervisor, [CS] Co-Supervisor)
+### PhD Students 
+
+[S] Main Supervisor, [CS] Co-Supervisor
 
 #### Current
 
