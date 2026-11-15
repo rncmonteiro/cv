@@ -214,3 +214,35 @@ body{background:var(--paper);color:var(--ink)}
     padding-bottom: 12px;
   }
 }
+
+
+/* Uniform dash-style lists throughout the CV.
+   Remove list-item separators; keep section and publication dividers. */
+.markdown-section ul,
+.markdown-section ol {
+  list-style: none;
+  padding-left: 0;
+}
+.markdown-section ul li,
+.markdown-section ol li,
+#team li {
+  position: relative;
+  border-top: 0;
+  padding: 5px 0 5px 20px;
+}
+.markdown-section ul li::before,
+.markdown-section ol li::before {
+  content: "-";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+}
+.markdown-section ul li::marker,
+.markdown-section ol li::marker {
+  content: "";
+}
+/* Keep nested lists visually nested without reintroducing borders. */
+.markdown-section li > ul,
+.markdown-section li > ol {
+  margin: 6px 0 4px 18px;
+}
