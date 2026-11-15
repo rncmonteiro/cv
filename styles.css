@@ -191,15 +191,8 @@ body{background:var(--paper);color:var(--ink)}
 #team ul{margin:0 0 22px}
 #team li{padding:9px 0;border-top:1px solid var(--line)}
 
-/* Reduce the gap between Conference Papers and Keynote Lectures only.
-   Add at the very end of styles.css. */
-#conference-papers {
-  padding-bottom: 20px;
-}
-#lectures {
-  padding-top: 24px;
-}
+/* Consistent, compact spacing between all main CV sections. */
+.cv-section { padding-top: 24px; padding-bottom: 24px; }
 @media (max-width: 700px) {
-  #conference-papers { padding-bottom: 16px; }
-  #lectures { padding-top: 22px; }
+  .cv-section { padding-top: 20px; padding-bottom: 20px; }
 }
