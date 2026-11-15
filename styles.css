@@ -128,7 +128,8 @@ body{background:var(--paper);color:var(--ink)}
   color:var(--accent);
   text-decoration:underline;
   text-underline-offset:3px;
-  white-space:nowrap;
+  white-space:normal;
+  overflow-wrap:break-word;
 }
 
 /* Secondary professional affiliation in the homepage introduction */
