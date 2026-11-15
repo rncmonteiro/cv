@@ -134,7 +134,7 @@
 
 **102.** Ozsarac, V., Monteiro, R. (2022) Influence of local-site effects on the seismic assessment of a reinforced concrete bridge. Proceedings of the 3rd European Conference on Earthquake Engineering and Seismology, September 5-9, 2022, Bucharest, Romania
 
-**101.** Gabbianelli, G., Perrone, D., Brunesi, E., Monteiro, R. (2022) Seismic Fragility Assessment of Steel Industrial Storage Tanks. Proceedings of the ASME 2022 Pressure Vessels & Piping Conference, July 17-22, 2022, Las Vegas, USA, Paper no. PVP2022-84961
+[**101.** Gabbianelli, G., Perrone, D., Brunesi, E., Monteiro, R. (2022) Seismic Fragility Assessment of Steel Industrial Storage Tanks. Proceedings of the ASME 2022 Pressure Vessels & Piping Conference, July 17-22, 2022, Las Vegas, USA, Paper no. PVP2022-84961](https://doi.org/10.1115/PVP2022-84961)
 
 **100.** Hamdache, M., Peláez, J., Yelles Chaouche, K., Castro, J.M, Monteiro, R., Beldjoudi, H., Kherroubi, A. (2022) A Preliminary Seismic Hazard Modelling in Northern Algeria. Advances in Geophysics, Tectonics and Petroleum Geosciences, 197-200. CAJG 2019. Advances in Science, Technology & Innovation. Springer (Proceedings of the 2nd Springer Conference of the Arabian Journal of Geosciences (CAJG-2), Tunisia 2019)
 
@@ -160,7 +160,7 @@
 
 **89.** Mucedero, G., Perrone, D., Brunesi, E., Monteiro, R. (2021) Impact of masonry infill variability on the estimation of floor response spectra in RC buildings. COMPDYN - Proceedings of the 8th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Athens, Greece, June 28-30, 2021.
 
-**88.** [KL] Monteiro, R. (2021) Probabilistic Seismic Risk Assessment of School Buildings. Proceedings of the International Probabilistic Workshop (IPW2020), Guimaraes, Portugal, May 12-14, 2021.
+[**88.** [KL] Monteiro, R. (2021) Probabilistic Seismic Risk Assessment of School Buildings. Proceedings of the International Probabilistic Workshop (IPW2020), Guimaraes, Portugal, May 12-14, 2021.](https://doi.org/10.1007/978-3-030-73616-3_2)
 
 **87.** [S] Monteiro, R., Carofilis, W., Gabbianelli, G. (2020) Seismic Retrofitting of Existing Buildings Using Cost-Benefit Analysis. Proceedings of the International Meeting 40 Years of the 1980 Azores Earthquake, online meeting, 6-7 October 2020.
 
@@ -188,7 +188,7 @@
 
 **75.** Kechidi, S., Abarca, A., Marques, M., Castro, J.M., Monteiro, R. (2019) On the seismic risk assessment of the residential buildings in Northern Algeria. Proceedings of the 12th Canadian Conference on Earthquake Engineering, Quebec, Canada, June 17-20, 2019.
 
-**74.** Abarca, A., Monteiro, R. (2019) Towards Large Scale Seismic Risk Assessment in Algeria: Case Study to the City of Blida. IOP Conference Series: Materials Science and Engineering, 603. (Proceedings of the WMCAUS 2019 Conference, Prague, June 15-19, 2019).
+[**74.** Abarca, A., Monteiro, R. (2019) Towards Large Scale Seismic Risk Assessment in Algeria: Case Study to the City of Blida. IOP Conference Series: Materials Science and Engineering, 603. (Proceedings of the WMCAUS 2019 Conference, Prague, June 15-19, 2019).](https://doi.org/10.1088/1757-899X/603/5/052065)
 
 **73.** O’Reilly, G., Abarca, A., Monteiro, R., Borzi, B., Calvi, G.M. (2019) Towards Regional Safety Assessment of Bridge Infrastructure. Proceedings of the 13th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP13 Seoul, South Korea, May 26-30, 2019.
 
@@ -234,9 +234,9 @@
 
 **52.** Vecere, A., Martina, M., Monteiro, R., Galasso, C. (2018) Toward near real-time flood loss estimation: model structure and data requirements. Proceedings of the 20th EGU General Assembly, EGU2018.
 
-**51.** Jiang, A., Silva, A., Castro, J.M., Chan, T.K., Monteiro, R. (2018) Experimental Study and Numerical Assessment of the Flexural behaviour of Square and Rectangular CFST Members under Monotonic and Cyclic Loading. Key Engineering Materials, 763, 804-811.
+[**51.** Jiang, A., Silva, A., Castro, J.M., Chan, T.K., Monteiro, R. (2018) Experimental Study and Numerical Assessment of the Flexural behaviour of Square and Rectangular CFST Members under Monotonic and Cyclic Loading. Key Engineering Materials, 763, 804-811.](https://doi.org/10.4028/www.scientific.net/KEM.763.804)
 
-**50.** Sarchi, L., Monteiro, R., Varum, H. (2017) Seismic analysis of Portuguese adobe buildings. Vernacular and Earthen Architecture: Conservation and Sustainability: Proceedings of SosTierra 2017, 803-808.
+[**50.** Sarchi, L., Monteiro, R., Varum, H. (2017) Seismic analysis of Portuguese adobe buildings. Vernacular and Earthen Architecture: Conservation and Sustainability: Proceedings of SosTierra 2017, 803-808.](https://doi.org/10.1201/9781315267739-139)
 
 **49.** Vecere, A., Marsigli, C., Martina, M., Monteiro, R. (2017) Comparative analysis of precipitation data from the Global Precipitation Measurement (GPM, NASA) mission and a national rain gauge network: three case studies in Italy. Proceedings of the 19th EGU General Assembly, EGU2017, p.16159.
 
@@ -246,13 +246,13 @@
 
 **46.** Jiang, Y., Silva, A., Macedo, L., Castro, J.M., Monteiro, R. (2017) Numerical modelling of concrete-filled steel tubular members in OpenSees. Proceedings of the OpenSees Days Europe 2017, 18-21.
 
-**45.** [S] Cerchiello, V., Ceresa, P., Monteiro, R. (2017) Using the scorecard approach to measure seismic social resilience in Nablus, Palestine. IFIP Advances in Information and Communication Technology, 501, 77-92.
+[**45.** [S] Cerchiello, V., Ceresa, P., Monteiro, R. (2017) Using the scorecard approach to measure seismic social resilience in Nablus, Palestine. IFIP Advances in Information and Communication Technology, 501, 77-92.](https://doi.org/10.1007/978-3-319-68486-4_7)
 
-**44.** O’Reilly, G., Monteiro, R., Perrone, D., Lanese, I., Fox, M., Pavese, A., Filiatrault, A. (2017) System identification and structural modelling of Italian school buildings. Conference Proceedings of the Society for Experimental Mechanics Series, 2 Part F2, 301-303.
+[**44.** O’Reilly, G., Monteiro, R., Perrone, D., Lanese, I., Fox, M., Pavese, A., Filiatrault, A. (2017) System identification and structural modelling of Italian school buildings. Conference Proceedings of the Society for Experimental Mechanics Series, 2 Part F2, 301-303.](https://doi.org/10.1007/978-3-319-54777-0_37)
 
-**43.** Zelaschi, C., Monteiro, R. (2017) Towards a taxonomy for Portuguese RC bridges. COMPDYN - Proceedings of the 6th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, I, 652-662.
+[**43.** Zelaschi, C., Monteiro, R. (2017) Towards a taxonomy for Portuguese RC bridges. COMPDYN - Proceedings of the 6th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, I, 652-662.](https://doi.org/10.7712/120117.5447.17003)
 
-**42.** [S] Perdomo, C., Monteiro, R., Sucuoglu, H. (2017) Seismic response of RC bridges using generalized force vectors. COMPDYN - Proceedings of the 6th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, I, 739-753.
+[**42.** [S] Perdomo, C., Monteiro, R., Sucuoglu, H. (2017) Seismic response of RC bridges using generalized force vectors. COMPDYN - Proceedings of the 6th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, I, 739-753.](https://doi.org/10.7712/120117.5454.18429)
 
 **41.** Silva, A., Jiang, Y., Macedo, L., Castro, J.M., Monteiro, R., Silvestre, N. (2017) Seismic Design of Composite Moment-Resisting Frames with CFST Members. Proceedings of the 16th World Conference in Earthquake Engineering, Paper no. 4310.
 
@@ -266,11 +266,11 @@
 
 **36.** Monteiro, R., Ceresa, P., Cerchiello, V., Dabeek, J., Di Meo, A., Borzi, B. (2016) Towards Integrated Seismic Risk Assessment in Palestine – Application to the City of Nablus. ECCOMAS Congress 2016 - Proceedings of the 7th European Congress on Computational Methods in Applied Sciences and Engineering, 3, 5987-5998.
 
-**35.** Civiletti, G., Camassi, R., Monteiro, R. (2016) Italian Seismic Sequences: Year 2000, the Emergency Phase in Romagna. Procedia Engineering, 161, 2088-2092.
+[**35.** Civiletti, G., Camassi, R., Monteiro, R. (2016) Italian Seismic Sequences: Year 2000, the Emergency Phase in Romagna. Procedia Engineering, 161, 2088-2092.](https://doi.org/10.1016/j.proeng.2016.08.677)
 
-**34.** Vecere, A., Monteiro, R., Ammann, W.J. (2016) Comparative Analysis of Existing Tools for Assessment of Post-Earthquake Short-Term Lodging Needs. Procedia Engineering, 161, 2217-2221.
+[**34.** Vecere, A., Monteiro, R., Ammann, W.J. (2016) Comparative Analysis of Existing Tools for Assessment of Post-Earthquake Short-Term Lodging Needs. Procedia Engineering, 161, 2217-2221.](https://doi.org/10.1016/j.proeng.2016.08.818)
 
-**33.** Grigoratos, I., Dabeek, J., Faravelli, M., Di Meo, A., Cerchiello, V., Borzi, B., Monteiro, R., Ceresa, P. (2016) Development of A Fragility and Exposure Model for Palestine - Application to the City of Nablus. Procedia Engineering, 161, 2023-2029.
+[**33.** Grigoratos, I., Dabeek, J., Faravelli, M., Di Meo, A., Cerchiello, V., Borzi, B., Monteiro, R., Ceresa, P. (2016) Development of A Fragility and Exposure Model for Palestine - Application to the City of Nablus. Procedia Engineering, 161, 2023-2029.](https://doi.org/10.1016/j.proeng.2016.08.797)
 
 **32.** Borzi, B., Di Meo, A., Faravelli, M., Ceresa, P., Monteiro, R., Dabeek, J. (2016) Definition of Fragility Curves for Frame Buildings in Nablus – Palestine. Proceedings of the 1st International Conference on Natural Hazards & Infrastructure, Chania, Greece, 28-30 June, Paper no. 62.
 
