@@ -1,7 +1,5 @@
 ## Prizes and distinctions
 
-Awards and distinctions
-
 - **2021** — Editor’s Choice Paper  Buildings, MDPI  "Numerical Modelling and Validation of the Response of Masonry-Infilled RC Frames Using Experimental Testing Results”
 - **2020** — Outstanding Paper Award  International Association for Bridge and Structural Engineering (IABSE)  Scientific Paper: “Once upon a Time in Italy: The Tale of the Morandi Bridge”
 - **2019** — Blind Prediction Competition  QuakeCoRE – New Zealand Centre for Earthquake Resilience  Winner – Team Coordinator
