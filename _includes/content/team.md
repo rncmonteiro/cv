@@ -16,7 +16,22 @@
 <div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/enes-veliu.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
   <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Enes Veliu</strong> (Albania), Post-doc - Quantifying seismic risk and assessing energy performance and environmental impact of existing buildings in Portugal
+    <strong>Enes Veliu</strong> (Albania), Post-doc
+    <ul style="margin-bottom:0 !important; padding-bottom:0;">
+      <li>Quantifying seismic risk and assessing energy performance and environmental impact of existing buildings in Portugal</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/gianrocco-mucedero.jpg" alt="Gianrocco Mucedero" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
+    <strong>Gianrocco Mucedero</strong> (Italy), Post-doc
+    <ul style="margin-bottom:0 !important; padding-bottom:0;">
+      <li>Integrated assessment of seismic risk and mitigation strategies of buildings and building portfolios</li>
+      <li>Risk assessment and loss estimation of storage structures</li>
+      <li>Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty</li>
+    </ul>
   </div>
 </div>
 
@@ -30,13 +45,7 @@
   </ul>
 </div>
 
-<div style="margin:14px 0 22px;">
-  <div style="border:0 !important;"><strong>Gianrocco Mucedero</strong> (Italy)</div>
-  <ul style="list-style-type:disc; list-style-position:outside; margin:6px 0 0 22px !important; padding:0 !important; border:0 !important;">
-    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Risk assessment and loss estimation of storage structures</li>
-    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty</li>
-  </ul>
-</div>
+
 
 
 
