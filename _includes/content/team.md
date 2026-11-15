@@ -22,54 +22,58 @@
 
 #### Past
 
-<div style="margin:12px 0 18px;">
-    <strong>Nicola Scattarreggia</strong> (Italy)
-    <ul style="margin-bottom:0 !important; padding-bottom:0;">
-      <li>Risk assessment and retrofitting of existing bridges</li>
-      <li>Multi-hazard vulnerability and robustness assessment of existing bridges</li>
-    </ul>
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Nicola Scattarreggia</strong> (Italy)</div>
+  <ul style="list-style-type:disc; list-style-position:outside; margin:6px 0 0 22px !important; padding:0 !important; border:0 !important;">
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Risk assessment and retrofitting of existing bridges</li>
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Multi-hazard vulnerability and robustness assessment of existing bridges</li>
+  </ul>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Gianrocco Mucedero</strong> (Italy)
-    <ul style="margin-bottom:0 !important; padding-bottom:0;">
-      <li>Risk assessment and loss estimation of storage structures</li>
-      <li>Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty</li>
-    </ul>
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Gianrocco Mucedero</strong> (Italy)</div>
+  <ul style="list-style-type:disc; list-style-position:outside; margin:6px 0 0 22px !important; padding:0 !important; border:0 !important;">
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Risk assessment and loss estimation of storage structures</li>
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Analysis of the structural response and seismic risk of reinforced concrete buildings considering different types of epistemic uncertainty</li>
+  </ul>
 </div>
 
 
 
-<div style="margin:12px 0 18px;">
-    <strong>Andres Abarca Jimenez</strong> (Costa Rica)
-    <ul style="margin-bottom:0 !important; padding-bottom:0;">
-      <li>Risk assessment and management of existing reinforced concrete bridges</li>
-      <li>Seismic vulnerability of residential buildings and reinforced concrete bridges in Algeria</li>
-    </ul>
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Andres Abarca Jimenez</strong> (Costa Rica)</div>
+  <ul style="list-style-type:disc; list-style-position:outside; margin:6px 0 0 22px !important; padding:0 !important; border:0 !important;">
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Risk assessment and management of existing reinforced concrete bridges</li>
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Seismic vulnerability of residential buildings and reinforced concrete bridges in Algeria</li>
+  </ul>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Giammaria Gabbianelli</strong> (Italy) — Review of seismic actions and design techniques
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Giammaria Gabbianelli</strong> (Italy)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">Review of seismic actions and design techniques</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Wilson Carofilis</strong> (Ecuador) — Interventions to reduce seismic risk in existing buildings
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Wilson Carofilis</strong> (Ecuador)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">Interventions to reduce seismic risk in existing buildings</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Gerard O’Reilly</strong> (Ireland)
-    <ul style="margin-bottom:0 !important; padding-bottom:0;">
-      <li>Advanced assessment of seismic performance and collapse probability of existing masonry-infilled reinforced concrete buildings (Main supervisor: Prof. Rui Pinho, University of Pavia)</li>
-      <li>Risk analysis of critical infrastructure (Main supervisor: Prof. Michele Calvi, IUSS Pavia)</li>
-    </ul>
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Gerard O’Reilly</strong> (Ireland)</div>
+  <ul style="list-style-type:disc; list-style-position:outside; margin:6px 0 0 22px !important; padding:0 !important; border:0 !important;">
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Advanced assessment of seismic performance and collapse probability of existing masonry-infilled reinforced concrete buildings (Main supervisor: Prof. Rui Pinho, University of Pavia)</li>
+    <li style="list-style-type:disc; display:list-item; border:0 !important; border-bottom:0 !important; padding:2px 0 !important; margin:0 !important;">Risk analysis of critical infrastructure (Main supervisor: Prof. Michele Calvi, IUSS Pavia)</li>
+  </ul>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Iason Grigoratos</strong> (Greece) — Integrated seismic vulnerability assessment of reinforced concrete buildings (Main supervisor: Dr. Paola Ceresa)
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Iason Grigoratos</strong> (Greece)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">Integrated seismic vulnerability assessment of reinforced concrete buildings (Main supervisor: Dr. Paola Ceresa)</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Vania Cerchiello</strong> (Italy) — Mitigation of seismic risk in buildings (Main supervisor: Dr. Paola Ceresa)
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Vania Cerchiello</strong> (Italy)</div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">Mitigation of seismic risk in buildings (Main supervisor: Dr. Paola Ceresa)</div>
 </div>
 
 ### PhD Students
@@ -108,52 +112,64 @@
 
 #### Past
 
-<div style="margin:12px 0 18px;">
-    <strong>Rita Couto</strong> — PhD in Earthquake Engineering (ROSE), Integrated seismic and energy performance of residential buildings [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Rita Couto</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Integrated seismic and energy performance of residential buildings [S]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Volkan Ozsarac</strong> — PhD in Earthquake Engineering (ROSE), Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Volkan Ozsarac</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Gianrocco Mucedero</strong> — PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Gianrocco Mucedero</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Davit Shahnazaryan</strong> — PhD in Earthquake Engineering (ROSE), Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Davit Shahnazaryan</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Andres Abarca</strong> — PhD in Earthquake Engineering (ROSE) Seismic assessment of RC bridge infrastructure [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Andres Abarca</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE) Seismic assessment of RC bridge infrastructure [S]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Carlotta Rodriquez</strong> — PhD in Understanding and Managing Extremes, A framework to assess disaster resilience based on sustainable development goals [CS]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Carlotta Rodriquez</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes, A framework to assess disaster resilience based on sustainable development goals [CS]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Jair Torres</strong> — PhD in Understanding and Managing Extremes, Crossing borders: A comparative assessment of community resilience to natural hazards in Arica, Chile and Tacna, Peru [CS]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Jair Torres</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes, Crossing borders: A comparative assessment of community resilience to natural hazards in Arica, Chile and Tacna, Peru [CS]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Antonio Silva</strong> — PhD in Earthquake Engineering (ROSE), Implications of earthquake-induced loss control in seismic design provisions [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Antonio Silva</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Implications of earthquake-induced loss control in seismic design provisions [S]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Camilo Perdomo</strong> — PhD in Earthquake Engineering (ROSE), Direct Economic Loss Assessment of Multi-Span Continuous RC Bridges under Seismic Hazard [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Camilo Perdomo</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Direct Economic Loss Assessment of Multi-Span Continuous RC Bridges under Seismic Hazard [S]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Annibale Vecere</strong> — PhD in Understanding and Managing Extremes, Near Real-time Flood Loss Estimation as a Basis for Risk Financing Mechanisms [CS]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Annibale Vecere</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes, Near Real-time Flood Loss Estimation as a Basis for Risk Financing Mechanisms [CS]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Yadong Jiang</strong> — PhD in Earthquake Engineering (ROSE), Seismic assessment of composite frames with concrete-filled steel tube columns [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Yadong Jiang</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Seismic assessment of composite frames with concrete-filled steel tube columns [S]</div>
 </div>
 
-<div style="margin:12px 0 18px;">
-    <strong>Claudia Zelaschi</strong> — PhD in Earthquake Engineering (ROSE), Seismic assessment of spatially-distributed RC bridge portfolios [S]
+<div style="margin:14px 0 22px;">
+  <div style="border:0 !important;"><strong>Claudia Zelaschi</strong></div>
+  <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE), Seismic assessment of spatially-distributed RC bridge portfolios [S]</div>
 </div>
 
 ### Master Students
