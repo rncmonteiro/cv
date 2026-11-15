@@ -1,7 +1,5 @@
 ## Research projects
 
-Coordination and participation in funded research projects
-
 - **09/2025 – today** — Coordinating Institution Team Member  Eucentre Foundation  SAVERACK – Sustainable, advanced and economical retrofitting strategies for reducing the seismic vulnerability and risk of steel storage pallet racks  Funded by: European Union - RFCS-2024-02-RPJ  Budget: €533,375.00
 - **09/2025 – today** — Partner Institution Coordinator  IUSS Pavia  Resilient and Smart Schools – Regional Prioritization Based on Seismic, Energy Efficiency and Socio-Economic Indicators  Funded by: Ministry of Education and Science, Republic of North Macedonia
 - **02/2025 – today** — Partner Institution Coordinator  IUSS Pavia  EMERGE – Rapid Multi-Risk Needs Evaluation and Planning Platform  Funded by: European Union – KAPP (DG-ECHO)  Budget: €104,279.00
