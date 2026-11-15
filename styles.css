@@ -191,8 +191,26 @@ body{background:var(--paper);color:var(--ink)}
 #team ul{margin:0 0 22px}
 #team li{padding:9px 0;border-top:1px solid var(--line)}
 
-/* Consistent, compact spacing between all main CV sections. */
-.cv-section { padding-top: 24px; padding-bottom: 24px; }
+/* Compact spacing at boundaries between CV sections.
+   Override the original .cv-section padding and Markdown paragraph margins. */
+.cv-section {
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.cv-section + .cv-section {
+  padding-top: 14px;
+}
+.cv-section > :last-child,
+.cv-section .markdown-section > :last-child {
+  margin-bottom: 0;
+}
+.cv-section .section-heading {
+  margin-bottom: 18px;
+}
 @media (max-width: 700px) {
-  .cv-section { padding-top: 20px; padding-bottom: 20px; }
+  .cv-section,
+  .cv-section + .cv-section {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
 }
