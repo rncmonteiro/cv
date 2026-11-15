@@ -1,7 +1,5 @@
 ## Journal articles
 
-Complete list as reported in the CV
-
 **100.** Gebrekidan, A.G., Scattarreggia, N., Cogliano, M., Monteiro, R. (2026) Multi-Criteria RC Bridge Seismic Retrofitting considering Environmental Impact, Journal of Earthquake Engineering. In-Press. [Article page](https://doi.org/10.1080/13632469.2026.2712444)
 
 **99.** Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering. In-Press.
