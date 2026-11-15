@@ -1,17 +1,7 @@
 <!doctype html>
 
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Academic curriculum vitae of Ricardo Monteiro." name="description"/><title>Ricardo Monteiro — Academic CV</title><link href="styles.css?v=20261115-spacing" rel="stylesheet"/>
-<style>
-/* Consistent section spacing; kept here to override any cached stylesheet. */
-.content > section.cv-section { padding-top: 16px; padding-bottom: 16px; }
-.content > section.cv-section > :first-child { margin-top: 0; }
-.content > section.cv-section > :last-child { margin-bottom: 0; }
-.content > section.cv-section > h2:first-child { margin: 0 0 14px; }
-@media (max-width:700px) {
-  .content > section.cv-section { padding-top: 12px; padding-bottom: 12px; }
-}
-</style></head>
-<body id="top"><header class="site-header"><div class="header-inner"><button aria-controls="site-nav" aria-expanded="false" class="menu-toggle">Menu</button><nav id="site-nav"><a href="#profile">Profile</a><a href="#current-roles">Current Roles</a><a href="#education">Education</a><a href="#teaching">Teaching</a><a href="#team">Research Team</a><a href="#projects">Projects</a><a href="#journal-articles">Publications</a></nav></div></header>
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Academic curriculum vitae of Ricardo Monteiro." name="description"/><title>Ricardo Monteiro — Academic CV</title><link href="styles.css" rel="stylesheet"/></head>
+<body id="top"><header class="site-header"><div class="header-inner"><button aria-controls="site-nav" aria-expanded="false" class="menu-toggle">Menu</button><nav id="site-nav"><a href="#profile">Profile</a><a href="#current-roles">Current Roles</a><a href="#education">Education</a><a href="#team">Research Team</a><a href="#teaching">Teaching</a><a href="#projects">Projects</a><a href="#journal-articles">Publications</a></nav></div></header>
 <main id="top"><section class="intro" id="profile"><div class="intro-copy"><h1>Ricardo Monteiro</h1><div class="affiliation-list">
   <div class="affiliation-row">
     <a class="affiliation-logo" href="https://www.iusspavia.it/" target="_blank" rel="noopener noreferrer" aria-label="Visit University School for Advanced Studies IUSS Pavia website"><img src="assets/iuss-logo-white.png" alt="IUSS Pavia logo"/></a>
@@ -30,7 +20,7 @@
     </div>
   </div>
 </div></div><div class="intro-side"><img alt="Portrait of Ricardo Monteiro" class="profile-photo" height="240" src="assets/portrait.jpg" width="240"/><div class="intro-note"><span>Research areas</span><p>Earthquake engineering<br/>Structural and seismic risk<br/>Assessment and retrofitting<br/>Risk-informed decision-making</p></div></div></section>
-<div class="mobile-jump"><label for="section-jump">Jump to a section</label><select id="section-jump"><option value="">Select section…</option><option value="profile-details">Academic profile</option><option value="current-roles">Current Roles</option><option value="education">Education</option><option value="teaching">Teaching activities</option><option value="team">Research Team</option><option value="projects">Research projects</option><option value="journal-articles">Journal articles</option><option value="conference-papers">Conference papers</option><option value="lectures">Keynote lectures and presentations</option><option value="awards">Prizes</option><option value="languages">Languages</option></select></div><div class="layout"><aside class="sidebar" aria-label="CV contents"><p class="eyebrow">CONTENTS</p><a href="#current-roles">Current Roles</a><a href="#education">Education</a><a href="#teaching">Teaching activities</a><a href="#team">Research Team</a><a href="#projects">Research projects</a><a href="#journal-articles">Journal articles</a><a href="#conference-papers">Conference papers</a><a href="#lectures">Keynote lectures and presentations</a><a href="#awards">Prizes</a></aside><div class="content"><section class="cv-section markdown-section" id="profile-details">
+<div class="mobile-jump"><label for="section-jump">Jump to a section</label><select id="section-jump"><option value="">Select section…</option><option value="profile-details">Academic profile</option><option value="current-roles">Current Roles</option><option value="education">Education</option><option value="team">Research Team</option><option value="teaching">Teaching</option><option value="projects">Research projects</option><option value="journal-articles">Journal articles</option><option value="conference-papers">Conference papers</option><option value="lectures">Keynote lectures and presentations</option><option value="awards">Prizes</option><option value="languages">Languages</option></select></div><div class="layout"><aside class="sidebar" aria-label="CV contents"><p class="eyebrow">CONTENTS</p><a href="#current-roles">Current Roles</a><a href="#education">Education</a><a href="#team">Research Team</a><a href="#teaching">Teaching</a><a href="#projects">Research projects</a><a href="#journal-articles">Journal articles</a><a href="#conference-papers">Conference papers</a><a href="#lectures">Keynote lectures and presentations</a><a href="#awards">Prizes</a></aside><div class="content"><section class="cv-section markdown-section" id="profile-details">
 {% capture md_section %}{% include content/profile-details.md %}{% endcapture %}
 {{ md_section | markdownify }}
 </section><section class="cv-section markdown-section" id="current-roles">
@@ -39,11 +29,11 @@
 </section><section class="cv-section markdown-section" id="education">
 {% capture md_section %}{% include content/education.md %}{% endcapture %}
 {{ md_section | markdownify }}
-</section><section class="cv-section markdown-section" id="teaching">
-{% capture md_section %}{% include content/teaching.md %}{% endcapture %}
-{{ md_section | markdownify }}
 </section><section class="cv-section markdown-section" id="team">
 {% capture md_section %}{% include content/team.md %}{% endcapture %}
+{{ md_section | markdownify }}
+</section><section class="cv-section markdown-section" id="teaching">
+{% capture md_section %}{% include content/teaching.md %}{% endcapture %}
 {{ md_section | markdownify }}
 </section><section class="cv-section markdown-section" id="projects">
 {% capture md_section %}{% include content/projects.md %}{% endcapture %}
