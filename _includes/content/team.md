@@ -365,6 +365,20 @@
 #### Current
 
 <div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/juan-diego-vargas.jpg" alt="Juan Diego Vargas" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-start; margin:0; padding:0;">
+    <strong>Juan Diego Vargas</strong> — PhD in Earthquake Engineering (ROSE)
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/vladimir-ramos-clemente.jpg" alt="Vladimir Ramos Clemente" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-start; margin:0; padding:0;">
+    <strong>Vladimir Ramos Clemente</strong> — PhD in Earthquake Engineering (ROSE)
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/mehmet-firat-aydin.jpg" alt="" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
   <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
     <strong>Mehmet Firat Aydin</strong> — PhD in Earthquake Engineering (ROSE)
