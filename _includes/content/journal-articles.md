@@ -10,9 +10,9 @@
 
 [**96.** Aydin, M.F., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, 24(11), 10397-10426.](https://doi.org/10.1007/s10518-026-02718-z)
 
-**95.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, M., Apostolska, R., Salic Makreska, R., Luka, R., Baballeku, M., Pitilakis, D. (2026) Seismic social vulnerability assessment in cross-border regions: application to Albania, Greece and North Macedonia, International Journal of Disaster Risk Reduction, 146, 106485. [Article page](https://research.iusspavia.it/handle/20.500.12076/26897)
+[**95.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, M., Apostolska, R., Salic Makreska, R., Luka, R., Baballeku, M., Pitilakis, D. (2026) Seismic social vulnerability assessment in cross-border regions: application to Albania, Greece and North Macedonia, International Journal of Disaster Risk Reduction, 146, 106485.](https://www.sciencedirect.com/science/article/pii/S2212420926004978)
 
-**94.** Ozsarac, V., Monteiro, R. (2026) Performance-Based Integrated Assessment of Earthquake-Induced Economic Losses for Reinforced Concrete Bridges, Resilient Cities and Structures, 5(4), 32-46. [Article page](https://doi.org/10.1016/j.rcns.2026.09.004)
+[**94.** Ozsarac, V., Monteiro, R. (2026) Performance-Based Integrated Assessment of Earthquake-Induced Economic Losses for Reinforced Concrete Bridges, Resilient Cities and Structures, 5(4), 32-46.](https://doi.org/10.1016/j.rcns.2026.09.004)
 
 [**93.** Yukselen, B., Mucedero, G., Monteiro, R. (2026) Multi-objective optimisation for integrated seismic retrofitting decision making, Journal of Building Engineering, 131, 117324.](https://doi.org/10.1016/j.jobe.2026.117324)
 
