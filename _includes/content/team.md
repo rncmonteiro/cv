@@ -5,7 +5,7 @@
 <div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
   <img src="assets/gianrocco-mucedero.jpg" alt="Gianrocco Mucedero" width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
   <div style="flex:1 1 240px; min-width:0; align-self:flex-end; margin-bottom:0; padding-bottom:0;">
-    <strong>Gianrocco Mucedero</strong> (Italy), Post-doc
+    <strong>Gianrocco Mucedero</strong> (Italy), Assistant Professor
     <ul style="margin-bottom:0 !important; padding-bottom:0;">
       <li>Integrated assessment of seismic risk and mitigation strategies of buildings and building portfolios</li>
       <li>Risk assessment and loss estimation of storage structures</li>
