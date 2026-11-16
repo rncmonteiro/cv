@@ -53,4 +53,14 @@
 </section><section class="cv-section markdown-section" id="languages">
 {% capture md_section %}{% include content/languages.md %}{% endcapture %}
 {{ md_section | markdownify }}
-</section></div></div></main><a href="#top" class="back-to-top" aria-label="Back to top" title="Back to top">↑ <span>Top</span></a><script src="script.js"></script></body></html>
+</section></div></div></main><a href="#top" class="back-to-top" aria-label="Back to top" title="Back to top">↑ <span>Top</span></a><script src="script.js"></script>
+<script>
+  // Open links to other pages and documents in a new tab.
+  // Keep in-page navigation (e.g. #education) in the current tab.
+  document.querySelectorAll('a[href]').forEach(function (link) {
+    var href = link.getAttribute('href');
+    if (!href || href.startsWith('#') || /^(mailto:|tel:|javascript:)/i.test(href)) return;
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+</script></body></html>
