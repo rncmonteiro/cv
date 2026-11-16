@@ -266,3 +266,32 @@ body{background:var(--paper);color:var(--ink)}
   display: inline !important;
   max-width: 100%;
 }
+
+
+/* Publication sections: consistent compact typography for linked and unlinked citations.
+   Target nested Markdown wrappers as well as direct section children. */
+#journal-articles h2, #conference-papers h2 {
+  font-size: clamp(1.55rem, 2.7vw, 2.15rem) !important;
+  line-height: 1.25 !important;
+  margin: 0 0 14px !important;
+}
+#journal-articles p, #conference-papers p {
+  font-size: 14px !important;
+  line-height: 1.7 !important;
+  margin: 0 !important;
+  padding: 12px 0 !important;
+  border-top: 1px solid var(--line);
+  font-weight: 400;
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+}
+#journal-articles p a, #conference-papers p a {
+  font-size: inherit !important;
+  line-height: inherit !important;
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  word-break: normal !important;
+}
+#journal-articles p strong, #conference-papers p strong {
+  font-size: inherit !important;
+}
