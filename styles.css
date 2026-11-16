@@ -247,3 +247,22 @@ body{background:var(--paper);color:var(--ink)}
 .markdown-section li > ol {
   margin: 6px 0 4px 18px;
 }
+
+/* Full-citation hyperlinks: force normal multi-line wrapping in both publication sections.
+   These rules override earlier theme and Markdown link styles. */
+#journal-articles p, #conference-papers p {
+  min-width: 0;
+  max-width: 100%;
+  white-space: normal !important;
+  overflow-wrap: anywhere;
+}
+#journal-articles p a, #conference-papers p a,
+#journal-articles p a *, #conference-papers p a * {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  word-break: normal !important;
+}
+#journal-articles p a, #conference-papers p a {
+  display: inline !important;
+  max-width: 100%;
+}
