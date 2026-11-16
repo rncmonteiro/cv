@@ -789,8 +789,13 @@
 
 #### Current
 
-<span style="color:var(--ink)">Ashi. A. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)  
-Seismic downtime estimation for existing RC buildings</span>
+<div style="display:flex; align-items:flex-end; gap:22px; margin:18px 0 24px; flex-wrap:wrap;">
+  <img src="assets/ashi-a.jpg" alt="Ashi A." width="180" height="180" style="width:180px !important; min-width:180px; max-width:180px; height:180px !important; min-height:180px; max-height:180px; object-fit:cover; border-radius:6px; flex-shrink:0;">
+  <div style="flex:1 1 240px; min-width:0; align-self:flex-end; color:var(--ink);">
+    <div>Ashi. A. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)</div>
+    <div>Seismic downtime estimation for existing RC buildings</div>
+  </div>
+</div>
 
 #### Past
 
