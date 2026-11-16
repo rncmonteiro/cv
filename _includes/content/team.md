@@ -97,7 +97,7 @@
     <strong>Mehmet Firat Aydin</strong> — PhD in Earthquake Engineering (ROSE)
     <div style="margin-top:5px;">Large-scale seismic risk analysis and retrofitting decision-making [S]</div>
     <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (1 journal articles, 3 conference papers)</summary>
+    <summary style="cursor:pointer;">1 journal article · 3 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1007/s10518-026-02718-z">97. Aydin, M.A., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, In-Press.</a></div>
@@ -118,7 +118,7 @@
     <strong>Maryam Saberdelsadeh</strong> — PhD in Civil Engineering (University of Porto)
     <div style="margin-top:5px;">Optimised displacement-based retrofitting of existing buildings with steel braces [CS]</div>
     <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (0 journal articles, 1 conference papers)</summary>
+    <summary style="cursor:pointer;">1 conference paper</summary>
     <div style="margin:9px 0 3px;"><strong>Conference papers</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;">157. Saberdelsadeh, M., Falcão Moreira, R., Monteiro, R., Castro, J.M. (2026) Influence of Infill Walls on the Seismic Response of RC Buildings Retrofitted with Steel Braces. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.</div>
@@ -133,7 +133,7 @@
     <strong>Ataklti Gebrehiwet</strong> — PhD in Earthquake Engineering (ROSE)
     <div style="margin-top:5px;">Integrated retrofitting of deck-isolated bridges [S]</div>
     <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (1 journal articles, 3 conference papers)</summary>
+    <summary style="cursor:pointer;">1 journal article · 3 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2026.2712444">100. Gebrekidan, A.G., Scattarreggia, N., Cogliano, M., Monteiro, R. (2026) Multi-Criteria RC Bridge Seismic Retrofitting considering Environmental Impact, Journal of Earthquake Engineering. In-Press.</a></div>
@@ -154,7 +154,7 @@
     <strong>Besim Yukselen</strong> — PhD in Earthquake Engineering (ROSE)
     <div style="margin-top:5px;">Multi-objective optimal retrofitting of existing buildings [S]</div>
     <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (5 journal articles, 7 conference papers)</summary>
+    <summary style="cursor:pointer;">5 journal articles · 7 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2605583">99. Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering. In-Press.</a></div>
@@ -183,7 +183,7 @@
   <div style="border:0 !important;"><strong>Rita Couto</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Integrated seismic and energy performance of residential buildings [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (8 journal articles, 9 conference papers)</summary>
+    <summary style="cursor:pointer;">8 journal articles · 9 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2605583">99. Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering. In-Press.</a></div>
@@ -214,7 +214,7 @@
   <div style="border:0 !important;"><strong>Volkan Ozsarac</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Integrated Evaluation of Earthquake-Induced Economic Losses for Multi-Span RC Bridges [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (4 journal articles, 4 conference papers)</summary>
+    <summary style="cursor:pointer;">4 journal articles · 4 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.rcns.2026.09.004">94. Ozsarac, V., Monteiro, R. (2026) Performance-Based Integrated Assessment of Earthquake-Induced Economic Losses for Reinforced Concrete Bridges, Resilient Cities and Structures, 5(4), 32-46.</a></div>
@@ -236,7 +236,7 @@
   <div style="border:0 !important;"><strong>Gianrocco Mucedero</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Large scale seismic risk assessment of existing masonry-infilled RC buildings in Italy [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (23 journal articles, 37 conference papers)</summary>
+    <summary style="cursor:pointer;">23 journal articles · 37 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2025.2605583">99. Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering. In-Press.</a></div>
@@ -310,7 +310,7 @@
   <div style="border:0 !important;"><strong>Davit Shahnazaryan</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Integrated Performance-Based Seismic Design: Traversing Affordances for Practical Implementation [CS]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (2 journal articles, 3 conference papers)</summary>
+    <summary style="cursor:pointer;">2 journal articles · 3 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1002/eqe.3638">60. Shahnazaryan, D., O’Reilly, G., Monteiro, R. (2022) On the Seismic Loss Estimation of Integrated Performance-Based Designed Buildings, Earthquake Engineering and Structural Dynamics, 51(8), 1794-1818.</a></div>
@@ -329,7 +329,7 @@
   <div style="border:0 !important;"><strong>Andres Abarca</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Seismic assessment of RC bridge infrastructure [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (6 journal articles, 12 conference papers)</summary>
+    <summary style="cursor:pointer;">6 journal articles · 12 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/15732479.2023.2187424">86. Abarca, A., Monteiro, R., O’Reilly, G. (2025) Seismic Risk Prioritisation Schemes for Reinforced Concrete Bridge Portfolios, Structure and Infrastructure Engineering, 21(1), 46-69.</a></div>
@@ -361,7 +361,7 @@
   <div style="border:0 !important;"><strong>Carlotta Rodriquez</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes<br>A framework to assess disaster resilience based on sustainable development goals [CS]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (1 journal articles, 0 conference papers)</summary>
+    <summary style="cursor:pointer;">1 journal article</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/15583058.2018.1503369">23. Rodriquez, C., Monteiro, R., Ceresa, P. (2018) Assessing seismic social vulnerability in urban centres - the case-study of Nablus, Palestine, International Journal of Architectural Heritage, 12(7-8), 1216-1230.</a></div>
@@ -372,16 +372,13 @@
 <div style="margin:14px 0 22px;">
   <div style="border:0 !important;"><strong>Jair Torres</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes<br>Crossing borders: A comparative assessment of community resilience to natural hazards in Arica, Chile and Tacna, Peru [CS]</div>
-  <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (0 journal articles, 0 conference papers)</summary>
-    </details>
 </div>
 
 <div style="margin:14px 0 22px;">
   <div style="border:0 !important;"><strong>Antonio Silva</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Implications of earthquake-induced loss control in seismic design provisions [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (10 journal articles, 15 conference papers)</summary>
+    <summary style="cursor:pointer;">10 journal articles · 15 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1177/8755293019899964">43. Silva, A., Castro, J.M., Monteiro, R. (2020) A Rational Approach to the Conversion of FEMA P-58 Seismic Repair Costs to Europe, Earthquake Spectra, 36(3), 1607-1618.</a></div>
@@ -420,7 +417,7 @@
   <div style="border:0 !important;"><strong>Camilo Perdomo</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Direct Economic Loss Assessment of Multi-Span Continuous RC Bridges under Seismic Hazard [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (5 journal articles, 6 conference papers)</summary>
+    <summary style="cursor:pointer;">5 journal articles · 6 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2020.1781710">58. Perdomo, C., Abarca, A., Monteiro, R. (2022) Estimation of Seismic Expected Annual Losses for Multi-Span Continuous RC Bridge Portfolios using a Component Level Approach, Journal of Earthquake Engineering, 26(6), 2985-3011.</a></div>
@@ -445,7 +442,7 @@
   <div style="border:0 !important;"><strong>Annibale Vecere</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Understanding and Managing Extremes<br>Near Real-time Flood Loss Estimation as a Basis for Risk Financing Mechanisms [CS]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (2 journal articles, 7 conference papers)</summary>
+    <summary style="cursor:pointer;">2 journal articles · 7 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.ijdrr.2021.102108">46. Vecere, A., Martina, M., Monteiro, R., Galasso, C. (2021) Satellite precipitation–based extreme event detection for flood index insurance, International Journal of Disaster Risk Reduction, 55, 102108.</a></div>
@@ -468,7 +465,7 @@
   <div style="border:0 !important;"><strong>Yadong Jiang</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Seismic assessment of composite frames with concrete-filled steel tube columns [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (4 journal articles, 9 conference papers)</summary>
+    <summary style="cursor:pointer;">4 journal articles · 9 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1016/j.istruc.2019.01.023">30. Jiang, Y., Silva, A., Macedo, L., Castro, J.M., Monteiro, R., Chan, T.-K. (2019) Concentrated-plasticity modelling of circular concrete-filled steel tubular members under flexure, Structures, 21, 156-166.</a></div>
@@ -495,7 +492,7 @@
   <div style="border:0 !important;"><strong>Claudia Zelaschi</strong></div>
   <div style="margin:5px 0 0; padding:0; border:0 !important; border-bottom:0 !important;">PhD in Earthquake Engineering (ROSE)<br>Seismic assessment of spatially-distributed RC bridge portfolios [S]</div>
   <details style="margin:8px 0 0;">
-    <summary style="cursor:pointer;">Publications (3 journal articles, 7 conference papers)</summary>
+    <summary style="cursor:pointer;">3 journal articles · 7 conference papers</summary>
     <div style="margin:9px 0 3px;"><strong>Journal articles</strong></div>
     <div style="margin:0 0 10px 12px;">
     <div style="margin:5px 0;"><a href="https://doi.org/10.1080/13632469.2017.1387188">31. Monteiro, R., Zelaschi, C., Silva, A., Pinho, R. (2019) Derivation of Fragility Functions for Seismic Assessment of RC Bridge Portfolios Using Different Intensity Measures, Journal of Earthquake Engineering, 23(10), 1678-1694.</a></div>
