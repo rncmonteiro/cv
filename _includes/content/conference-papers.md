@@ -4,7 +4,7 @@
 
 [2026]
 
-**165.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, Pitilakis, D. (2026) Integration of social vulnerability for seismic risk assessment of Greece. Lecture Notes in Civil Engineering, 909, 887-895 (Proceedings of ReSBE 2026 – ReShaping the Built Environment through Sustainability and Circularity, October 20-23, Thessaloniki, Greece).
+[**165.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, Pitilakis, D. (2026) Integration of social vulnerability for seismic risk assessment of Greece. Lecture Notes in Civil Engineering, 909, 887-895 (Proceedings of ReSBE 2026 – ReShaping the Built Environment through Sustainability and Circularity, October 20-23, Thessaloniki, Greece).](https://doi.org/10.1007/978-3-032-35104-3_103)
 
 **164.** Borzi, B.; Di Meo, A.; Quaroni, D.; Bozzoni, F.; Salic Makreska, R.; Bojadjieva, J.; Edip, K.; Bogdanovic, A.; Capragoski, G.; Filipovski, D.; Neziri, Z.; Nanevska-Juloska, A.; Apostolska, R.; Gjorgjiev, I.; Riga, E.; Amendola, C., Pitilakis, D., Monteiro, R., Mucedero, G., Calò, M., Qirjazi, G., Luka, R., Dushi, E., Ktenidou, O.-J., Nikas, K., Stefanoski, S., Klajdi, N., Atanasovska, V., Jovanovski, V., Van Wijk, T., Zgjanjolli, R. (2026) EMERGE: A Web-Based Platform for Multi-Hazard Assessment and Early Crisis Response in the Cross-Border Region of North Macedonia, Albania, and Greece. Proceedings of the 18th European Conference on Earthquake Engineering, September 14-18, Berlin, Germany.
 
@@ -36,13 +36,13 @@
 
 **150.** Scarlino, A., Perrone, D., Farivar Rad, A.H., Monteiro, R., Castro, J.M., Aiello, M.A. (2026) Seismic response of solar energy generation systems. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, Structural Integrity Procedia, 78, 214–221.
 
-**149.** Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2026) Downtime-based seismic assessment: insights from new and retrofitted RC buildings in Italy. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1959–1966.
+[**149.** Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2026) Downtime-based seismic assessment: insights from new and retrofitted RC buildings in Italy. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1959–1966.](https://doi.org/10.1016/j.prostr.2025.12.249)
 
 **148.** Gebrehiwet Gebrekidan, A., Scattarreggia, N., Monteiro, R. (2026) Multi-parameter evaluation of sustainable seismic retrofitting strategies for a three-span reinforced concrete bridge. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1665–1672.
 
-**147.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2026) An integrated regional prioritisation framework for seismic retrofitting of residential buildings. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1951–1958.
+[**147.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2026) An integrated regional prioritisation framework for seismic retrofitting of residential buildings. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1951–1958.](https://doi.org/10.1016/j.prostr.2025.12.248)
 
-**146.** Yukselen, B., Mucedero, G., Monteiro, R. (2026) Enhancing Multi-Objective Seismic Retrofitting Design Through Optimisation. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1943–1950.
+[**146.** Yukselen, B., Mucedero, G., Monteiro, R. (2026) Enhancing Multi-Objective Seismic Retrofitting Design Through Optimisation. Proceedings of the XX ANIDIS Conference, Assisi, Italy, September 7-11, 2025, Structural Integrity Procedia, 78, 1943–1950.](https://doi.org/10.1016/j.prostr.2025.12.247)
 
 [2025]
 
@@ -56,7 +56,7 @@
 
 **141.** Calò, M., Mucedero, G., Monteiro, R. (2025) Integrazione di modelli BIM e simulazione esplicita mediante AEM per la valutazione del rischio sismico: proposta metodologica. Proceedings of the IF CRASC '25 Italian Conference in Forensic Engineering, Collapses, Structural Reliability and Consolidation, Naples, Italy, July 15-17.
 
-**140.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2025) Developing storey loss functions for Portuguese RC buildings. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25259, 928-939.
+[**140.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2025) Developing storey loss functions for Portuguese RC buildings. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25259, 928-939.](https://doi.org/10.7712/120125.12459.25259)
 
 **139.** Yukselen, B., Mucedero, G., Monteiro, R. (2025) Multi-variable optimisation of building seismic retrofitting. COMPDYN - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, Rhodes, Greece, June 15-18, Paper no. C25255, 3602-3616.
 

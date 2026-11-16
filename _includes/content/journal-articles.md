@@ -2,35 +2,35 @@
 
 **100.** Gebrekidan, A.G., Scattarreggia, N., Cogliano, M., Monteiro, R. (2026) Multi-Criteria RC Bridge Seismic Retrofitting considering Environmental Impact, Journal of Earthquake Engineering. In-Press. [Article page](https://doi.org/10.1080/13632469.2026.2712444)
 
-**99.** Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering. In-Press.
+[**99.** Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering. In-Press.](https://doi.org/10.1080/13632469.2025.2605583)
 
 **98.** Jusufi, L., Monteiro, R., Mucedero, G., Apostolska, R. (2026) Integrating social vulnerability and seismic risk mapping for nationwide retrofit prioritisation in North Macedonia, Bulletin of Earthquake Engineering, In-Press.
 
-**97.** Aydin, M.A., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, In-Press.
+[**97.** Aydin, M.A., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, In-Press.](https://doi.org/10.1007/s10518-026-02718-z)
 
-**96.** Couto, R., Mucedero, G., Yukselen, B., Bento, R., Monteiro, R. (2026) Storey loss and environmental impact functions for existing RC buildings, Bulletin of Earthquake Engineering, In-Press.
+[**96.** Couto, R., Mucedero, G., Yukselen, B., Bento, R., Monteiro, R. (2026) Storey loss and environmental impact functions for existing RC buildings, Bulletin of Earthquake Engineering, In-Press.](https://doi.org/10.1007/s10518-026-02637-z)
 
 **95.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, M., Apostolska, R., Salic Makreska, R., Luka, R., Baballeku, M., Pitilakis, D. (2026) Seismic social vulnerability assessment in cross-border regions: application to Albania, Greece and North Macedonia, International Journal of Disaster Risk Reduction, 146, 106485. [Article page](https://research.iusspavia.it/handle/20.500.12076/26897)
 
 **94.** Ozsarac, V., Monteiro, R. (2026) Performance-Based Integrated Assessment of Earthquake-Induced Economic Losses for Reinforced Concrete Bridges, Resilient Cities and Structures, 5(4), 32-46. [Article page](https://doi.org/10.1016/j.rcns.2026.09.004)
 
-**93.** Yukselen, B., Mucedero, G., Monteiro, R. (2026) Multi-objective optimisation for integrated seismic retrofitting decision making, Journal of Building Engineering, 131, 117324.
+[**93.** Yukselen, B., Mucedero, G., Monteiro, R. (2026) Multi-objective optimisation for integrated seismic retrofitting decision making, Journal of Building Engineering, 131, 117324.](https://doi.org/10.1016/j.jobe.2026.117324)
 
-**92.** Scattarreggia, N., Hamidpour, S., Monteiro, R. (2026) Enhancing rapid large-scale priority assessment and management of existing bridges under traffic and seismic loads, Resilient Cities and Structures, 5(3), 88-102.
+[**92.** Scattarreggia, N., Hamidpour, S., Monteiro, R. (2026) Enhancing rapid large-scale priority assessment and management of existing bridges under traffic and seismic loads, Resilient Cities and Structures, 5(3), 88-102.](https://doi.org/10.1016/j.rcns.2026.06.001)
 
 [**91.** Hamidpour, S., Scattarreggia, N., Nascimbene, R., Monteiro, R. (2026) A risk-based quantitative approach for priority assessment of ageing bridges accounting for deterioration, Structure and Infrastructure Engineering, 22(3), 490-505.](https://doi.org/10.1080/15732479.2024.2339343)
 
-**90.** Yukselen, B., Mucedero, G., Monteiro, R. (2025) Evaluation and enhancement of optimisation algorithms for automated seismic retrofitting of existing buildings, Journal of Earthquake Engineering, 29(14), 2959–2992.
+[**90.** Yukselen, B., Mucedero, G., Monteiro, R. (2025) Evaluation and enhancement of optimisation algorithms for automated seismic retrofitting of existing buildings, Journal of Earthquake Engineering, 29(14), 2959–2992.](https://doi.org/10.1080/13632469.2025.2541237)
 
-**89.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2025) Priority analysis framework for equitable seismic and energy-efficiency renovation of residential buildings applied to mainland Portugal, Earthquake Spectra, 41(3), 1941-1976.
+[**89.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2025) Priority analysis framework for equitable seismic and energy-efficiency renovation of residential buildings applied to mainland Portugal, Earthquake Spectra, 41(3), 1941-1976.](https://doi.org/10.1177/87552930251335282)
 
-**88.** Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2025) Estimation of seismic downtime for building retrofitting decision-making, Resilient Cities and Structures, 4(3), 15-29.
+[**88.** Mucedero, G., Couto, R., Yukselen, B., Monteiro, R. (2025) Estimation of seismic downtime for building retrofitting decision-making, Resilient Cities and Structures, 4(3), 15-29.](https://doi.org/10.1016/j.rcns.2025.07.001)
 
 [**87.** Mucedero, G., Gabbianelli, G., Rapone, A., Monteiro, R. (2025) A practice-oriented methodology for seismic loss assessment of steel storage pallet racks, Engineering Structures, 333, 120187.](https://doi.org/10.1016/j.engstruct.2025.120187)
 
 [**86.** Abarca, A., Monteiro, R., O’Reilly, G. (2025) Seismic Risk Prioritisation Schemes for Reinforced Concrete Bridge Portfolios, Structure and Infrastructure Engineering, 21(1), 46-69.](https://doi.org/10.1080/15732479.2023.2187424)
 
-**85.** Merino, R., Mucedero, G., Perrone, D., Filiatrault, A., Monteiro, R., Nascimbene, R. (2024) Influence of acceleration-sensitive non-structural element classification on seismic loss estimation of a case-study building in Italy, Journal of Building Engineering, 98, 111399.
+[**85.** Merino, R., Mucedero, G., Perrone, D., Filiatrault, A., Monteiro, R., Nascimbene, R. (2024) Influence of acceleration-sensitive non-structural element classification on seismic loss estimation of a case-study building in Italy, Journal of Building Engineering, 98, 111399.](https://doi.org/10.1016/j.jobe.2024.111399)
 
 [**84.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) A practice-oriented approach for the seismic and energy performance upgrading of existing buildings, Journal of Earthquake Engineering, 28(15), 4380-4407.](https://doi.org/10.1080/13632469.2024.2382474)
 
@@ -40,7 +40,7 @@
 
 [**81.** Mucedero, G., Perrone, D., Monteiro (2024) Fragility and vulnerability models for poorly-detailed infilled buildings accounting for building-to-building and masonry infill variability, International Journal of Disaster Risk Reduction, 111, 104668.](https://doi.org/10.1016/j.ijdrr.2024.104668)
 
-**80.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) Understanding the Impact of Seismic Hazard and Climate Conditions on Multi Criteria–Based Retrofitting of Existing Buildings, Sustainability, 16(10), 4318.
+[**80.** Couto, R., Mucedero, G., Bento, R., Monteiro, R. (2024) Understanding the Impact of Seismic Hazard and Climate Conditions on Multi Criteria–Based Retrofitting of Existing Buildings, Sustainability, 16(10), 4318.](https://doi.org/10.3390/su16104318)
 
 [**79.** Mucedero, G., Monteiro, R. (2024) An integrated regional prioritisation framework for seismic and energy-efficiency performance upgrading of residential buildings, International Journal of Disaster Risk Reduction, 103, 104341.](https://doi.org/10.1016/j.ijdrr.2024.104341)
 
