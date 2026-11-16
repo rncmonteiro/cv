@@ -2,13 +2,13 @@
 
 **100.** Gebrekidan, A.G., Scattarreggia, N., Cogliano, M., Monteiro, R. (2026) Multi-Criteria RC Bridge Seismic Retrofitting considering Environmental Impact, Journal of Earthquake Engineering. In-Press. [Article page](https://doi.org/10.1080/13632469.2026.2712444)
 
-[**99.** Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering. In-Press.](https://doi.org/10.1080/13632469.2025.2605583)
+**99.** Jusufi, L., Monteiro, R., Mucedero, G., Apostolska, R. (2026) Integrating social vulnerability and seismic risk mapping for nationwide retrofit prioritisation in North Macedonia, Bulletin of Earthquake Engineering, In-Press.
 
-**98.** Jusufi, L., Monteiro, R., Mucedero, G., Apostolska, R. (2026) Integrating social vulnerability and seismic risk mapping for nationwide retrofit prioritisation in North Macedonia, Bulletin of Earthquake Engineering, In-Press.
+[**98.** Mucedero, G., Yukselen, B., Couto, R., Calvi, G.M., Monteiro, R. (2026) Beyond structural safety: downtime-based performance criteria as future design objectives for Italian buildings, Journal of Earthquake Engineering, 30(7), 1632-1657.](https://doi.org/10.1080/13632469.2025.2605583)
 
-[**97.** Aydin, M.A., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, In-Press.](https://doi.org/10.1007/s10518-026-02718-z)
+[**97.** Couto, R., Mucedero, G., Yukselen, B., Bento, R., Monteiro, R. (2026) Storey loss and environmental impact functions for existing RC buildings, Bulletin of Earthquake Engineering, 24(11), 10667-10702.](https://doi.org/10.1007/s10518-026-02637-z)
 
-[**96.** Couto, R., Mucedero, G., Yukselen, B., Bento, R., Monteiro, R. (2026) Storey loss and environmental impact functions for existing RC buildings, Bulletin of Earthquake Engineering, In-Press.](https://doi.org/10.1007/s10518-026-02637-z)
+[**96.** Aydin, M.F., Mucedero, G., Monteiro, R. (2026) An integrated seismic risk estimation framework for Türkiye, Bulletin of Earthquake Engineering, 24(11), 10397-10426.](https://doi.org/10.1007/s10518-026-02718-z)
 
 **95.** Amendola, C., Riga, E., Monteiro, R., Mucedero, G., Calò, M., Apostolska, R., Salic Makreska, R., Luka, R., Baballeku, M., Pitilakis, D. (2026) Seismic social vulnerability assessment in cross-border regions: application to Albania, Greece and North Macedonia, International Journal of Disaster Risk Reduction, 146, 106485. [Article page](https://research.iusspavia.it/handle/20.500.12076/26897)
 
