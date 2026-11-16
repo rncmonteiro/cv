@@ -789,7 +789,8 @@
 
 #### Current
 
-*No current Master students are listed in the supplied CV.*
+<span style="color:var(--ink)">Ashi. A. — MSc in Civil Engineering for Mitigation of Risk from Natural Hazards (ROSE)  
+Seismic downtime estimation for existing RC buildings</span>
 
 #### Past
 
