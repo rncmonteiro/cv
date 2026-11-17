@@ -4,7 +4,7 @@
 
 - Vice-Rector for International Relations
 - Coordinator, [PhD in Earthquake Engineering (ROSE)](https://www.iusspavia.it/en/education/doctoral-programmes/phd-earthquake-engineering-rose)
-- Coordinator, PhD in Understanding and Managing Extremes (UME)
+- Coordinator, [PhD in Understanding and Managing Extremes (UME)](https://www.iusspavia.it/en/ume)
 - Member of the Management Board, [II level Post-Master Vocational Programme in Earthquake Engineering](https://www.roseschool.it/about-master/)
 - Member of the Administration Board, IUSS Pavia
 - Member of the Review Committee, [MSc in Civil Engineering for Risk Mitigation from Natural Hazards](https://civrisk.cdl.unipv.it/en)
