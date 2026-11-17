@@ -3,18 +3,18 @@
 ### Academic at IUSS Pavia
 
 - Vice-Rector for International Relations
-- Coordinator, PhD in Earthquake Engineering (ROSE)
+- Coordinator, [PhD in Earthquake Engineering (ROSE)](https://www.iusspavia.it/en/education/doctoral-programmes/phd-earthquake-engineering-rose)
 - Coordinator, PhD in Understanding and Managing Extremes (UME)
-- Member of the Management Board, II level Post-Master Vocational Programme in Earthquake Engineering
+- Member of the Management Board, [II level Post-Master Vocational Programme in Earthquake Engineering](https://www.roseschool.it/about-master/)
 - Member of the Administration Board, IUSS Pavia
-- Member of the Review Committee, MSc in Civil Engineering for Risk Mitigation from Natural Hazards
-- Appointed Member, Work Group 12: Continuing Education and Professional Development, European Association of Earthquake Engineering
-- Rector, Collegio Internazionale per la Protezione Civile “Cardinale Agostino Riboldi”, Pavia, Italia (appointed by the Eucentre Foundation)
+- Member of the Review Committee, [MSc in Civil Engineering for Risk Mitigation from Natural Hazards](https://civrisk.cdl.unipv.it/en)
+- Appointed Member, [Work Group 12: Continuing Education and Professional Development, European Association of Earthquake Engineering](https://eaee.org/wg12members/)
+- Rector, [Collegio Internazionale per la Protezione Civile “Cardinale Agostino Riboldi”](https://www.eucentre.it/en/car-college/), Pavia, Italia (appointed by the Eucentre Foundation)
 
 ### Editorial
 
-- Assistant Editor and Editorial Board Member, Journal of Earthquake Engineering – Taylor and Francis
-- Associate Editor, Frontiers of Built Environment, (Earthquake Engineering)
+- Assistant Editor and Editorial Board Member, [Journal of Earthquake Engineering – Taylor and Francis](https://www.tandfonline.com/journals/ueqe20/about-this-journal#aims-and-scope)
+- Associate Editor, [Frontiers of Built Environment, (Earthquake Engineering)](https://www.frontiersin.org/journals/built-environment/sections/earthquake-engineering)
 
 ### Professional
 
