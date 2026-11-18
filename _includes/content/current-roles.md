@@ -9,7 +9,7 @@
 - Member of the Administration Board, IUSS Pavia
 - Member of the Review Committee, [MSc in Civil Engineering for Risk Mitigation from Natural Hazards](https://civrisk.cdl.unipv.it/en)
 - Appointed Member, [Work Group 12: Continuing Education and Professional Development, European Association of Earthquake Engineering](https://eaee.org/wg12members/)
-- Rector, [Collegio Internazionale per la Protezione Civile “Cardinale Agostino Riboldi”](https://www.eucentre.it/en/car-college/), Pavia, Italia (appointed by the Eucentre Foundation)
+- Rector, [University Residence "CAR College"](https://www.eucentre.it/en/car-college/), Pavia, Italia (appointed by the Eucentre Foundation)
 
 ### Editorial
 
